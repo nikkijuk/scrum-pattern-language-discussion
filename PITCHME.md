@@ -5,10 +5,10 @@
 - definition of patterns and pattern language
 - scrum as pattern language
 - design, especially software architecture, patterns 
-- discussion if software development can be defined with company specific pattern laguage?
+- discussion if software development can be given direction with company specific pattern laguage?
 ---
 ## Definitions
---
+---
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
