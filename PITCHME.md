@@ -96,7 +96,7 @@
 ---
 ### Sutherland et al 2019
 - A Scrum Book
-- Product Organization and Value Stream Pattern Languages
+- Product Organization and Value Stream Pattern Languages (together 94 patterns)
 - A Project Language of Highly Effective Teams as example of custom pattern language
 ---
 ![Organisational scrum patterns](sutherland_2019_organisational.png)
