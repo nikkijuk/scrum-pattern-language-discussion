@@ -23,20 +23,28 @@
 - Creational, Behavioral and Structural patterns
 - Iterator, visitor, Bridge, Builder, Decorator, ..
 ---
+![gof](gof-patterns.gif)
+---
 ### POSA 1 aka Buschmann et al 1996. 
 - Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.
 - Architectural and Design Pattern, Idioms
 - Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
+---
+![posa-1](posa1-patterns.png)
 ---
 ### Hohpe & Woolf 2003. 
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. 
 - Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
 - Idempotent Receiver, Message Bus, Canonical Data Model, ..
 ---
+![eai](eai-patterns.png)
+---
 ### Evans 2004. 
 - Domain-Driven Design: Tackling Complexity in the Heart of Software.
 - Organized by process, not by patterns
 - Bounded Context, Ubiquitous language, ..
+---
+![ddd](ddd-patterns.png)
 ---
 ## Pros
 ---
