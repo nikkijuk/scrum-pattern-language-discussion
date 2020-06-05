@@ -112,6 +112,7 @@
     Use the pattern Swarming: One-Piece Continuous Flow.
 -    Interruptions are one of the largest potential killers of velocity. 
     You need to know how to deal with interruptions during the Sprint. 
+---
 -    We presume you have a ScrumMaster, but you need a more finessed technique 
     that suggests a framework of discipline to make interruptions visible and 
     structure how you deal with them. Try Illegitimus Non Interruptus.
@@ -120,6 +121,7 @@
 -    Stuff happens, and dealing with emergencies is a discipline. 
     Align the organization to deal with emergencies using the disciplined 
     replanning of Emergency Procedure.
+---
 -    The heart of Scrum is process improvement. Get into a rhythm of improving 
     your process every Sprint with Scrumming the Scrum.
     Part of improving is to measure—but measure more with heart than with 
