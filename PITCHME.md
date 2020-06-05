@@ -77,7 +77,7 @@
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
 - Close to Essential: Sprint Retrospective, Release Planning Meeting Release Burndown, Visible Status 
 ---
-![Essential patterns](beedle_2010_essential_patterns.png)
+![Essential patterns](beedle_2010_essential_patterns_bok.jpg)
 ---
 ## Sources 
 
