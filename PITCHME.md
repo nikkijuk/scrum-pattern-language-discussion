@@ -102,8 +102,7 @@
 ![Organisational scrum patterns](sutherland_2019_organisational.png)
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
----
-
+--- 
     First, just get started. Start with Stable Teams.
     Next, decide how you are going to size your releases every Sprint. 
     Start developing and establish a velocity (see Notes on Velocity) and 
