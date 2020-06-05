@@ -66,7 +66,7 @@
 ---
 ![People & Code](coplien_2004_people_and_code.png)
 ---
-![Piecemeal Growth](coplien_2004_piecemeal_growth_patterns.png)
+![Piecemeal Growth](coplien_2004_piecemeal_growth.png)
 ---
 ![Project Management](coplien_2004_project_management.png)
 ---
