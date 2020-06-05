@@ -76,7 +76,7 @@
 - Essential Scrum Patterns
 - The Scrum patterns considered essential are the following: PRODUCT BACKLOG, PRODUCT OWNER, SCRUM TEAM, SCRUMMASTER, SPRINT BACKLOG, SPRINT PLANNING MEETING, SPRINT, DAIL Y SCRUM, SPRINT BURNDOWN, SPRINT REVIEW, and SPRINT RETROSPECTIVE
 - In a less essential way, the following patterns were also considered, since they are very important, but not considered necessary to Scrum: RELEASE PLANNING MEETING, RELEASE BURNDOWN and VISIBLE STATUS.
---
+---
 ![Essential patterns](beedle_2010_essential_patterns.png)
 ---
 ## Sources 
