@@ -103,6 +103,15 @@
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
 ---
+## Highly recommended
+---
+### Sauna Sprint Review
+- After a particularly successful sprint, or a sprint that is otherwise worthy of celebration, rent a sauna for the sprint review. Start the meeting with a very information review of the sprint activities, focusing on both good and bad as usual. 
+- As the meeting goes on, segue into the social side of the event and allow it to continue into the night. 
+- Be sure to include local food and some champagne.
+ 
+
+---
 ## Sources 
 
 
