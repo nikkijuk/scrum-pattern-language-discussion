@@ -18,9 +18,10 @@
 ---
 ## Examples
 ---
-GOF aka Gamma et al 1995. Design Patterns: Elements of Reusable Object-Oriented Software.  
-* Creational, Behavioral and Structural patterns
-* Iterator, visitor, Bridge, Builder, Decorator, ..
+### GOF aka Gamma et al 1995. Design Patterns: Elements of Reusable Object-Oriented Software.  
+- Creational, Behavioral and Structural patterns
+- Iterator, visitor, Bridge, Builder, Decorator, ..
+---
 
 POSA 1 aka Buschmann et al 1996. Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.
 * Architectural and Design Pattern, Idioms
