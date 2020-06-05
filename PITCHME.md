@@ -50,7 +50,9 @@
 ---
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design
-
+- "A Development Process Generative Pattern Language"
+---
+![coplien '95](coplien_1995_plop.png)
 ---
 ### Beedle et al. 1997.
 - SCRUM: An extension pattern language for hyperproductive software development
