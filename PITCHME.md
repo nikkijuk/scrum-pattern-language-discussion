@@ -73,11 +73,26 @@
 ![Project Management](coplien_2004_project_management.png)
 ---
 ### Beedle et al 2010
-- Essential Scrum Patterns
+- "Essential Scrum Patterns"
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
 - Close to Essential: Sprint Retrospective, Release Planning Meeting Release Burndown, Visible Status 
 ---
 ![Essential patterns](beedle_2010_essential_patterns_bok.jpg)
+---
+### Sutherland & al 2014
+- "Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"
+- Stable Teams were necessary for hyperproductivity. We decided to systematically investigate every other major problem that blocks a team from finishing early.
+- A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper- Productive Teams.
+---
+1. Stable Teams
+2. Yesterday’s Weather
+3. Swarming: One Piece Continuous Flow
+4. Interrupt Pattern: Illigitimus Non Interruptus
+5. Daily Clean Code
+6. Emergency Procedure
+7. Scrumming the Scrum
+8. Happiness Metric
+9. Teams that Finish Early Accelerate Faster
 ---
 ## Sources 
 
