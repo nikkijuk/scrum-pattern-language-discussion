@@ -2,7 +2,8 @@
 ![Logo](jambit_logo.png)
 ---
 ## What is this about?
-- definition of patterns and pattern language
+- definition of patterns and pattern language 
+- well known examples
 - scrum as pattern language
 - design, especially software architecture, patterns 
 - discussion if software development can be given direction with company specific pattern laguage?
@@ -11,8 +12,27 @@
 ---
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
 ---
+[Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) is a general, reusable solution to a commonly occurring problem within a given context in software design.
+---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
+## Examples
+---
+GOF aka Gamma et al 1995. Design Patterns: Elements of Reusable Object-Oriented Software.  
+* Creational, Behavioral and Structural patterns
+* Iterator, visitor, Bridge, Builder, Decorator, ..
+
+POSA 1 aka Buschmann et al 1996. Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.
+* Architectural and Design Pattern, Idioms
+* Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
+
+Hohpe & Woolf 2003. Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. 
+* Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
+* Idempotent Receiver, Message Bus, Canonical Data Model, ..
+
+Evans 2004. Domain-Driven Design: Tackling Complexity in the Heart of Software.
+* Organized to support process, not by separate patterns
+* Bounded Context, Ubiquitous language, ..
 
 ---
 ## Pros
