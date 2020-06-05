@@ -60,7 +60,15 @@
 ---
 ### Coplien & Harrison 2004
 - Organizational Patterns of Agile Software Development
-
+- Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
+---
+![Org style](coplien_2004_organisational_style.png)
+---
+![People & Code](coplien_2004_people_and_code.png)
+---
+![Piecemeal Growth](coplien_2004_piecemeal_growth.png)
+---
+![Project Management](coplien_2004_project_management.png)
 ---
 ## Sources 
 
