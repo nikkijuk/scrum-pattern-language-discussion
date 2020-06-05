@@ -102,35 +102,6 @@
 ![Organisational scrum patterns](sutherland_2019_organisational.png)
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
---- 
--    First, just get started. Start with Stable Teams.
--    Next, decide how you are going to size your releases every Sprint. 
-    Start developing and establish a velocity (see Notes on Velocity) and 
-    bring it into statistical control: use Yesterday’s Weather.
--    Next, work on getting stuff Done (see Definition of Done) instead of 
-    foundering in rework. It takes teamwork to do that. 
-    Use the pattern Swarming: One-Piece Continuous Flow.
--    Interruptions are one of the largest potential killers of velocity. 
-    You need to know how to deal with interruptions during the Sprint. 
----
--    We presume you have a ScrumMaster, but you need a more finessed technique 
-    that suggests a framework of discipline to make interruptions visible and 
-    structure how you deal with them. Try Illegitimus Non Interruptus.
--    Focus on quality from the beginning, every day. Early on, 
-    strive for Good Housekeeping.
--    Stuff happens, and dealing with emergencies is a discipline. 
-    Align the organization to deal with emergencies using the disciplined 
-    replanning of Emergency Procedure.
----
--    The heart of Scrum is process improvement. Get into a rhythm of improving 
-    your process every Sprint with Scrumming the Scrum.
-    Part of improving is to measure—but measure more with heart than with 
-    raw numbers. Drive forward with the Happiness Metric.
--    Revisit how you are sizing your Sprints. Instead of pushing the team to 
-    take more and more into the Sprint, refocus on Yesterday’s Weather and 
-    give yourself room to improve. Try Teams That Finish Early Accelerate Faster.
-
-
 ---
 ## Highly recommended
 ---
@@ -139,8 +110,6 @@
 - Start the meeting with a very information review of the sprint activities, focusing on both good and bad as usual. 
 - As the meeting goes on, segue into the social side of the event and allow it to continue into the night. 
 - Be sure to include local food and some champagne.
- 
-
 ---
 ## Sources 
 
