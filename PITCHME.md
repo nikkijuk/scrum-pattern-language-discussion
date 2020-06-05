@@ -1,12 +1,12 @@
 ### Scrum Pattern Language Discussion
 ![Logo](jambit_logo.png)
 ---
-## What is this about?
+## agenda
 - definition of patterns and pattern language 
-- well known examples
+- well-known examples
 - scrum as pattern language
-- design, especially software architecture, patterns 
-- discussion if software development can be given direction with company specific pattern laguage?
+- agile software architecture patterns 
+- crafting your own pattern language
 ---
 ## Definitions
 ---
@@ -16,7 +16,7 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## Examples
+## Well-Known Examples
 ---
 ### GOF aka Gamma et al 1995. 
 - Design Patterns: Elements of Reusable Object-Oriented Software.  
@@ -46,62 +46,30 @@
 ---
 ![ddd](ddd_patterns.png)
 ---
-## Pros
+## Scrum & Patterns
 ---
-### Technology Heterogeneity
-- best tool for the job can be picked (e.g. different programming language or persistence
-  technology)
-- service with smallest impact can be chosen for trying out a new technology
+### Coplien & Schmidt 1995.
+- Pattern Languages of Program Design
+
 ---
-### Resilience
-- monolith: if the backend fails, the result is total system outage
-- if one service in the system fails, the error should not cascade
-- several instances of a service can be run -> if one fails, the other one takes over
+### Beedle et al. 1997.
+- SCRUM: An extension pattern language for hyperproductive software development
+- "When combined together, SCRUM and other organizational patterns [OrgPatt], and specially those by James O. Coplien [Coplien95], provide with an adaptive, yet well structured software development organization."
 ---
-### Scaling
-- monolith: all or nothing can be scaled
-- ms architecture: dedicated services can be scaled depending on their workload
+![beedle '97](beedle_scrum_patterns_97.png)
 ---
-### Ease of deployment
-- changing and deploying one single service is less likely to bring the whole system down
-- services can be deployed independently
-- deployment problems can be isolated more quickly
-- less fear to release -> more releases
-- features get shipped more quickly
----
-### Organization alignment
-- distributed teams (one team per service) is possible
-- smaller teams working on smaller codebases tend to be more productive
-- teams can work with independent processes (scrum, kanban, ...)
---- 
-### Composability
-- microservices allow for functionality being consumed from different parties in different ways for different purposes
-- e.g. useable from other services, web apps, desktop applications…
---- 
-### Optimizing for replaceability
-- small services should be rewriteable in a couple of weeks
-- less fear to throw things away or change existing services
----
-## Cons
----
-### Distributed system
-- performance decreases (communication via network)
-- added complexity for asynchronous messaging
-- services might be not reachable -> more effort for error handling
-- distributed systems are harder to debug
----
-### Eventual consistency
-- microservices imply autonomy and decentralized data management
-- distributed transactions are often not used (especially across domains)
-- developers have to be aware of consistency issues
----
-### Operational complexity
-- continiuous delivery essential for microservices
-- more services to monitor, deploy and manage
+### Coplien & Harrison 2004
+- Organizational Patterns of Agile Software Development
+
 ---
 ## Sources 
-- Sam Newman, Building Microservices, Chapter 1: Microservices - Key Benefits
-- Martin Fowler, Microservices Trade-offs, https://martinfowler.com/articles/microservice-trade-offs.html
+
+
+[Beedle et al] Mike Beedle, Martine Devos, Yonat Sharon, Ken Schwaber, and Jeff Sutherland. “Scrum: An extension pattern language for hyperproductive software development”, PLoP’1998.
+- https://www.researchgate.net/publication/2464945_SCRUM_An_extension_pattern_language_for_hyperproductive_software_development
+- a scrum book
+- ..
+
 --- 
 ## Thanks for discussing!
-- https://www.github.com/gernd/microservice-discussion
+- https://github.com/nikkijuk/scrum-pattern-language-discussion
