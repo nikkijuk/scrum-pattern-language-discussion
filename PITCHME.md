@@ -52,6 +52,18 @@
 ---
 ![ddd](ddd_patterns.png)
 ---
+### Coplien & Harrison 2004
+- Organizational Patterns of Agile Software Development
+- Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
+---
+![Org style](coplien_2004_organisational_style.png)
+---
+![People & Code](coplien_2004_people_and_code.png)
+---
+![Piecemeal Growth](coplien_2004_piecemeal_growth.png)
+---
+![Project Management](coplien_2004_project_management.png)
+---
 ### Priest et al late 2010's. 
 - Sociocracy 3.0 patterns
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
@@ -77,18 +89,6 @@
 - "When combined together, SCRUM and other organizational patterns [OrgPatt], and specially those by James O. Coplien [Coplien95], provide with an adaptive, yet well structured software development organization."
 ---
 ![beedle '97](beedle_scrum_patterns_97.png)
----
-### Coplien & Harrison 2004
-- Organizational Patterns of Agile Software Development
-- Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
----
-![Org style](coplien_2004_organisational_style.png)
----
-![People & Code](coplien_2004_people_and_code.png)
----
-![Piecemeal Growth](coplien_2004_piecemeal_growth.png)
----
-![Project Management](coplien_2004_project_management.png)
 ---
 ### Beedle et al 2010
 - "Essential Scrum Patterns"
