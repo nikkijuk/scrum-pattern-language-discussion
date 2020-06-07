@@ -8,6 +8,14 @@
 - agile software architecture patterns 
 - crafting your own pattern language
 ---
+## One principle
+---
+### Gojko Adzic 2009
+„I am getting more and more convinced every day that communication is, 
+in fact, what makes or breaks software projects. 
+Programming tools, practices and methods are definitely important, 
+but if the communication fails then the rest is just painting the corpse.“
+--
 ## Definitions
 ---
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
