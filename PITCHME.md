@@ -88,8 +88,7 @@
 ---
 ![seci](seci_model.jpg)
 ---
-### Schwaber 1995
-- "SCRUM Development Process"
+### Schwaber 1995 - "SCRUM Development Process"
 - SCRUM assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression. 
 - SCRUM defines the systems development process as a loose set of activities that combines known, workable tools and techniques with the best that a development team can devise to build systems. Since these activities are loose, controls to manage the process and inherent risk are used. 
 - SCRUM is an enhancement of the commonly used iterative/incremental object-oriented development cycle.
