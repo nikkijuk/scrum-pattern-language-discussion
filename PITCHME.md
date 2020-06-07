@@ -97,8 +97,8 @@
 ---
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"
+- Patterns can be used to build an organization and to guide its development process in the domain of software development.
 - A good set of organizational patterns helps to (indirectly) generate the right process.
-- Patterns that can be used to build an organization and to guide its development process in the domain of software development.
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
@@ -117,8 +117,9 @@
 ---
 ### Sutherland & al 2014
 - "Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"
-- Stable Teams were necessary for hyperproductivity. We decided to systematically investigate every other major problem that blocks a team from finishing early.
-- A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper- Productive Teams.
+- A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework.
+- A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper-Productive Teams.
+- Generative patterns work indirectly; they work on the underlying structure of a problem rather than attacking the problem directly.
 ---
 1. Stable Teams
 2. Yesterday’s Weather
