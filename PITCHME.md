@@ -87,13 +87,13 @@
 - Also called methodology in first paper, later defined as framework
 - Borrows ideas from Nonakas & Takeuchi: "New New Product Development Game", Seci-model 
 ---
-![scrum methodology 1995](scrum_methodology_2_1995.png)
+![scrum methodology 1995](scrum_methodology_1995.png)
 ---
 - SCRUM assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression. 
 - SCRUM defines the systems development process as a loose set of activities that combines known, workable tools and techniques with the best that a development team can devise to build systems. Since these activities are loose, controls to manage the process and inherent risk are used. 
 - SCRUM is an enhancement of the commonly used iterative/incremental object-oriented development cycle.
 ---
-![scrum methodology_2 1995](scrum_methodology_2_1995.png)
+![scrum methodology 2 1995](scrum_methodology_2_1995.png)
 ---
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design
