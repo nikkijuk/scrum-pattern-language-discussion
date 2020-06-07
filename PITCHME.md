@@ -3,6 +3,7 @@
 ---
 ## agenda
 - principles, definitions and well-known examples
+- agile, scrum and productivity
 - scrum as pattern language
 - agile software architecture patterns 
 - crafting your own pattern language
@@ -55,6 +56,7 @@
 ### Coplien & Harrison 2004
 - Organizational Patterns of Agile Software Development
 - Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
+- Self selecting team, Unity of Purpose, ..
 ---
 ![Org style](coplien_2004_organisational_style.png)
 ---
@@ -65,19 +67,25 @@
 ![Project Management](coplien_2004_project_management.png)
 ---
 ### Priest et al late 2010's. 
-- Sociocracy 3.0 patterns
+- [Sociocracy 3.0 patterns](https://patterns.sociocracy30.org/)
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
 - Navigate Via Tension, Consent Decision Making, ..
 ---
 ![s3](s3_pattern_map.png)
 ---
-## Agile, Scrum & Patterns
+## Agile, Scrum & productivity
 ---
 ### Agile  
 - [Mike Beedle](https://en.wikipedia.org/wiki/Mike_Beedle) proposed "Agile". 
 - "We had proposed Adaptive, Essential, Lean and Lightweight. We did not want to use Adaptive because Jim Highsmith had given this to one of his works. Essential sounded overly proud. Lean had already been taken. Nobody wanted to be a lightweight. We did this late in the second day and it took only a few minutes to decide on this."
 - Mike Beedle was the first adopter of the Scrum method and author of second scrum paper. 
 ---
+![agile manifesto](agile_manifesto.png)
+---
+### Scrum
+---
+### Productivity
+
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design
 - "A Development Process Generative Pattern Language"
