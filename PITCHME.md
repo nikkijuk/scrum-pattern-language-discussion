@@ -52,6 +52,13 @@
 ---
 ![ddd](ddd_patterns.png)
 ---
+### Priest et al late 2010's. 
+- Sociocracy 3.0 patterns
+- Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
+- Navigate Via Tension, Consent Decision Making, ..
+---
+![s3](s3_pattern_map.png)
+---
 ## Scrum & Patterns
 ---
 ### Coplien & Schmidt 1995.
