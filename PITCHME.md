@@ -83,6 +83,11 @@
 ![agile manifesto](agile_manifesto.png)
 ---
 ### Scrum
+- Used by Jeff Sutherland since 1993
+- Formally described 1995 by Ken Schwaber
+- Borrows ideas from Nonakas & Takeuchi: "New New Product Development Game", Seci-model 
+---
+![seci](seci_model.jpg)
 ---
 ### Productivity
 
