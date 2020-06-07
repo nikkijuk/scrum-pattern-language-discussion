@@ -3,10 +3,9 @@
 ---
 ## agenda
 - principles, definitions and well-known examples
-- agile, scrum and productivity
-- scrum as pattern language
-- agile software architecture patterns 
-- crafting your own pattern language
+- agile, scrum & scrum pattern languages
+- project pattern language
+- snake oil & productivity 
 ---
 ## One principle
 ---
@@ -89,17 +88,6 @@
 ---
 ![seci](seci_model.jpg)
 ---
-### Productivity @ Google
-- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
-- Dependability: Can we count on each other to do high quality work on time?
-- Structure & clarity: Are goals, roles, and execution plans on our team clear?
-- Meaning of work: Are we working on something that is personally important for each of us?
-- Impact of work: Do we fundamentally believe that the work we’re doing matters?
----
-![psychological safety](psychological_safety.png)
----
-## Scrum history
----
 ### Schwaber 1995
 - "SCRUM Development Process"
 - SCRUM assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression. 
@@ -158,6 +146,15 @@
 - Start the meeting with a very information review of the sprint activities, focusing on both good and bad as usual. 
 - As the meeting goes on, segue into the social side of the event and allow it to continue into the night. 
 - Be sure to include local food and some champagne.
+---
+### Productivity @ Google
+- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+- Dependability: Can we count on each other to do high quality work on time?
+- Structure & clarity: Are goals, roles, and execution plans on our team clear?
+- Meaning of work: Are we working on something that is personally important for each of us?
+- Impact of work: Do we fundamentally believe that the work we’re doing matters?
+---
+![psychological safety](psychological_safety.png)
 ---
 ## Sources 
 
