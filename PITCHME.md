@@ -11,10 +11,10 @@
 ## One principle
 ---
 ### Gojko Adzic 2009
-„I am getting more and more convinced every day that communication is, 
-in fact, what makes or breaks software projects. 
-Programming tools, practices and methods are definitely important, 
-but if the communication fails then the rest is just painting the corpse.“
+   "I am getting more and more convinced every day that communication is, 
+   in fact, what makes or breaks software projects. 
+   Programming tools, practices and methods are definitely important, 
+   but if the communication fails then the rest is just painting the corpse."
 --
 ## Definitions
 ---
