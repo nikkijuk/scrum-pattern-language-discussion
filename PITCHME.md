@@ -2,8 +2,7 @@
 ![Logo](jambit_logo.png)
 ---
 ## agenda
-- definition of patterns and pattern language 
-- well-known examples
+- principles, definitions and well-known examples
 - scrum as pattern language
 - agile software architecture patterns 
 - crafting your own pattern language
@@ -18,6 +17,8 @@
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
 ---
 [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) is a general, reusable solution to a commonly occurring problem within a given context in software design.
+[An architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) is a general, reusable solution to a commonly occurring problem in software architecture within a given context.
+[Process patterns](https://en.wikipedia.org/wiki/Process_patterns) can be defined as the set of activities, actions, work tasks or work products and similar related behaviour followed in a software development life cycle. 
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
