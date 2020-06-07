@@ -1,5 +1,5 @@
 ### Scrum Pattern Language Discussion
-![Logo](jambit_logo.png)
+![Logo](jambit_logo.svg)
 ---
 ## agenda
 - principles, definitions and well-known examples
