@@ -59,7 +59,12 @@
 ---
 ![s3](s3_pattern_map.png)
 ---
-## Scrum & Patterns
+## Agile, Scrum & Patterns
+---
+### Agile  
+- [Mike Beedle](https://en.wikipedia.org/wiki/Mike_Beedle) proposed "Agile". 
+- "We had proposed Adaptive, Essential, Lean and Lightweight. We did not want to use Adaptive because Jim Highsmith had given this to one of his works. Essential sounded overly proud. Lean had already been taken. Nobody wanted to be a lightweight. We did this late in the second day and it took only a few minutes to decide on this."
+- Mike Beedle was the first adopter of the Scrum method and author of second scrum paper. 
 ---
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design
