@@ -96,8 +96,9 @@
 ![scrum methodology 2 1995](scrum_methodology_2_1995.png)
 ---
 ### Coplien & Schmidt 1995.
-- Pattern Languages of Program Design
-- "A Development Process Generative Pattern Language"
+- Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"
+- A good set of organizational patterns helps to (indirectly) generate the right process.
+- Patterns that can be used to build an organization and to guide its development process in the domain of software development.
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
