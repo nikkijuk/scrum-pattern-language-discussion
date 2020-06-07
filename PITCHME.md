@@ -119,7 +119,6 @@
 - "Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"
 - A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework.
 - A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper-Productive Teams.
-- Generative patterns work indirectly; they work on the underlying structure of a problem rather than attacking the problem directly.
 ---
 1. Stable Teams
 2. Yesterday’s Weather
@@ -132,7 +131,7 @@
 9. Teams that Finish Early Accelerate Faster
 ---
 ### Sutherland et al 2019
-- A Scrum Book
+- "A Scrum Book"
 - Product Organization and Value Stream Pattern Languages (together 94 patterns)
 - A Project Language of Highly Effective Teams as example of custom pattern language
 ---
