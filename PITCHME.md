@@ -90,7 +90,16 @@
 ![seci](seci_model.jpg)
 ---
 ### Productivity
+five key dynamics set successful teams apart from other teams at Google:
+- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+- Dependability: Can we count on each other to do high quality work on time?
+- Structure & clarity: Are goals, roles, and execution plans on our team clear?
+- Meaning of work: Are we working on something that is personally important for each of us?
+- Impact of work: Do we fundamentally believe that the work we’re doing matters?
 
+---
+![psychological safety](psychological_safety.png)
+---
 ### Coplien & Schmidt 1995.
 - Pattern Languages of Program Design
 - "A Development Process Generative Pattern Language"
