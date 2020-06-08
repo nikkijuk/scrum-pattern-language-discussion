@@ -147,9 +147,36 @@
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
 ---
-## Essential
+## What about hyperproductivity?
 ---
-### Stable Team
+### [Stable Teams §15](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)  
+- If you need predictability, then keep teams stable and avoid shuffling people around between teams.
+---
+### [Yesterday’s Weather §66](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/estimation-points/yesterday-s-weather)
+- If courage emboldens the team to set overoptimistic goals, then refer to the work Done in the last Sprint to forecast the work for the upcoming Sprint.
+---
+### [Swarming: One Piece Continuous Flow §25](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)
+- Working on too many things at once reduces velocity and the quality of work. Therefore, have the whole Development Team work together on one Product Backlog Item at a time.
+---
+### [Interrupt Pattern: Illigitimus Non Interruptus §33](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/illegitimus-non-interruptus)
+- If various stakeholders and emergent requirements interrupt the team, crippling its progress, then explicitly allot time for interrupts and time-box unplanned work to that budget.
+---
+### [Good Housekeeping aka Daily Clean Code §80](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/good-housekeeping)
+- Where there’s a mess, you lose time and energy finding where and what to start on. Therefore, maintain a completely clean product and work environment continuously, or clean at the end of each day.
+---
+### [Emergency Procedure §32](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/emergency-procedure)
+- Inevitably, unanticipated problems arise and cause the Sprint Goal to slip out of reach, but waiting until the Sprint Review derails the whole Sprint. Therefore, reevaluate the work plan mid-Sprint and escalate the solution with a predefined procedure.
+---
+### [Scrumming the Scrum §92](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum)
+- Scrum is more than just doing work; it’s also about improving the way we work. Therefore, resolve the most important impediment by putting one in the Product Backlog every Sprint.
+---
+### [Happiness Metric §91](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)
+- If a growing list of improvement activities dampens the team's passion for the work, then prioritize the items on the impediment list in order of the team’s passion to solve them.
+---
+### [Teams that Finish Early Accelerate Faster §74](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/teams-that-finish-early-accelerate-faster)
+- Teams often take too much work into a Sprint and cannot finish it. Failure to attain the Sprint Goal prevents the team from improving. Therefore, take less work into a Sprint.
+---
+# What about team?
 ---
 ### Self Managing Team
 ---
