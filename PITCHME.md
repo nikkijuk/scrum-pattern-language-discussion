@@ -18,13 +18,13 @@
 ---
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) is a general, reusable solution to a commonly occurring problem within a given context in software design.
 - [An architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) is a general, reusable solution to a commonly occurring problem in software architecture within a given context.
-- [Process patterns](https://en.wikipedia.org/wiki/Process_patterns) can be defined as the set of activities, actions, work tasks or work products and similar related behaviour followed in a [software development life cycle](https://en.wikipedia.org/wiki/Software_development_process).
+- [Organisational patterns](https://en.wikipedia.org/wiki/Organizational_patterns) are arrangements or systems of internal relationship which give to any culture its coherence.
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## Using organisational patterns
+## Usage
 ---
-### organizational improvement
+### organisational improvement 
 - Find the weakest part of your organization
 - Find a pattern that is likely to strengthen it
 - Apply the pattern
@@ -81,6 +81,7 @@
 ---
 ![s3](s3_pattern_map.png)
 ---
+---
 ## Agile, Scrum & productivity
 ---
 ### Agile  
@@ -88,6 +89,11 @@
 - "We had proposed Adaptive, Essential, Lean and Lightweight. We did not want to use Adaptive because Jim Highsmith had given this to one of his works. Essential sounded overly proud. Lean had already been taken. Nobody wanted to be a lightweight. We did this late in the second day and it took only a few minutes to decide on this."
 - Mike Beedle was the first adopter of the Scrum method and author of second scrum paper. 
 ---
+### Organisational patterns
+- Kent Beck was reviewer of the Coplien paper for the 1995 PLoP and this influenced extreme programming. 
+- The idea of daily Scrum meetings came from a draft of an article that described the organizational patterns research on the Borland QPW project. 
+- Beedle's early work with Sutherland brought the pattern perspective more solidly into the history of Scrum.
+----
 ![agile manifesto](agile_manifesto.png)
 ---
 ### Scrum 1993 - 1995
