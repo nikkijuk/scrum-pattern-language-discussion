@@ -83,12 +83,10 @@
 ---
 ## Scrum, Organisational Patterns & Agile
 ---
-![agile manifesto](agile_manifesto.png)
----
 ### Scrum 1993 - 1995
-- Used by Jeff Sutherland since 1993
-- Formally described 1995 by Ken Schwaber at ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
+- Used by Jeff Sutherland since 1993, described 1995 by Ken Schwaber at ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
 - Called process and methodology in first papers, later defined as framework
+- The idea of daily Scrum meetings came from a draft of an article that described the organizational patterns research on the Borland QPW project. 
 - Borrows ideas from Nonakas & Takeuchi: "New New Product Development Game" (1986), Seci-model (1990)
 ---
 ![scrum methodology 1995](scrum_methodology_1995.png)
@@ -103,23 +101,22 @@
 - [Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
 - Patterns can be used to build an organization and to guide its development process in the domain of software development.
 - A good set of organizational patterns helps to (indirectly) generate the right process.
----
-### Organisational patterns & Agile
 - Kent Beck was reviewer of the Coplien paper for the 1995 PLoP and this influenced extreme programming. 
-- The idea of daily Scrum meetings came from a draft of an article that described the organizational patterns research on the Borland QPW project. 
-- Mike Beedle's early work with Sutherland brought the pattern perspective more solidly into the history of Scrum.
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
 ### Beedle et al. 1997.
 - ["SCRUM: An extension pattern language for hyperproductive software development"](https://www.semanticscholar.org/paper/SCRUM%3A-An-extension-pattern-language-for-hyper-Beedle-DeVos/8658dbfb4bc0f8474a513adf0b51b1cfc2419a02)
-- "When combined together, SCRUM and other organizational patterns [OrgPatt], and specially those by James O. Coplien [Coplien95], provide with an adaptive, yet well structured software development organization."
+- "When combined together, SCRUM and other organizational patterns, and specially those by Coplien, provide with an adaptive, yet well structured software development organization."
+- Beedle's work with Sutherland brought the pattern perspective to Scrum.
 ---
 ![beedle '97](beedle_scrum_patterns_97.png)
 ---
 ### Agile  
 - [Mike Beedle](https://en.wikipedia.org/wiki/Mike_Beedle) proposed term "Agile". 
 - "We had proposed Adaptive, Essential, Lean and Lightweight. We did not want to use Adaptive because Jim Highsmith had given this to one of his works. Essential sounded overly proud. Lean had already been taken. Nobody wanted to be a lightweight. We did this late in the second day and it took only a few minutes to decide on this."
+---
+![agile manifesto](agile_manifesto.png)
 ---
 ### Sutherland et al 2010 - 2017 
 - [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
