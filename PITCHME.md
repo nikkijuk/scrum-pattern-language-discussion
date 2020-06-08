@@ -22,9 +22,9 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## Usage of organisational patterns
+## Using organisational patterns
 ---
-### incremental organizational improvement
+### organizational improvement
 - Find the weakest part of your organization
 - Find a pattern that is likely to strengthen it
 - Apply the pattern
