@@ -83,7 +83,7 @@
 ---
 ### Scrum 1993 - 1995
 - Used by Jeff Sutherland since 1993
-- Formally described 1995 by Ken Schwaber at "SCRUM Development Process"
+- Formally described 1995 by Ken Schwaber at ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
 - Called process and methodology in first papers, later defined as framework
 - Borrows ideas from Nonakas & Takeuchi: "New New Product Development Game", Seci-model 
 ---
@@ -96,49 +96,49 @@
 ![scrum methodology 2 1995](scrum_methodology_2_1995.png)
 ---
 ### Coplien & Schmidt 1995.
-- Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"
+- [Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
 - Patterns can be used to build an organization and to guide its development process in the domain of software development.
 - A good set of organizational patterns helps to (indirectly) generate the right process.
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
 ### Beedle et al. 1997.
-- SCRUM: An extension pattern language for hyperproductive software development
+- ["SCRUM: An extension pattern language for hyperproductive software development"](https://www.semanticscholar.org/paper/SCRUM%3A-An-extension-pattern-language-for-hyper-Beedle-DeVos/8658dbfb4bc0f8474a513adf0b51b1cfc2419a02)
 - "When combined together, SCRUM and other organizational patterns [OrgPatt], and specially those by James O. Coplien [Coplien95], provide with an adaptive, yet well structured software development organization."
 ---
 ![beedle '97](beedle_scrum_patterns_97.png)
 ---
 ### Sutherland et al 2010 - 2017 
-- Scrum Guide, 6 versions until now
+- [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
 - 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
 - Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
 ---
 ![scrum guide 2010 - 2017](scrum_guide_revisions.jpg)
 ---
-### Beedle et al 2010
-- "Essential Scrum Patterns"
+### Beedle et al 2010 (working paper)
+- ["Essential Scrum Patterns"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAi7CTrfLpAhVnzqYKHXATCmcQFjAAegQIAxAB&url=http%3A%2F%2Fwww.hillside.net%2Fplop%2F2010%2Fpapers%2Fbeedle.pdf&usg=AOvVaw1ykjztZJZ-eRWt7WUQL2ti)
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
 - Close to Essential: Sprint Retrospective, Release Planning Meeting Release Burndown, Visible Status 
 ---
 ![Essential patterns](beedle_2010_essential_patterns_bok.jpg)
 ---
 ### Sutherland & al 2014
-- "Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"
+- ["Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"](https://www.semanticscholar.org/paper/Teams-That-Finish-Early-Accelerate-Faster%3A-A-for-Sutherland-Harrison/cb929a4e0a9fd949fbc16bb29da0d8995d23a6bb)
 - A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework.
 - A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper-Productive Teams.
 ---
-1. Stable Teams
-2. Yesterday’s Weather
-3. Swarming: One Piece Continuous Flow
-4. Interrupt Pattern: Illigitimus Non Interruptus
-5. Daily Clean Code
-6. Emergency Procedure
-7. Scrumming the Scrum
-8. Happiness Metric
-9. Teams that Finish Early Accelerate Faster
+1. [Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
+2. [Yesterday’s Weather](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/estimation-points/yesterday-s-weather)
+3. [Swarming: One Piece Continuous Flow](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/swarming--one-piece-continuous-flow)
+4. [Interrupt Pattern: Illigitimus Non Interruptus](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/illegitimus-non-interruptus)
+5. [Daily Clean Code](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/good-housekeeping)
+6. [Emergency Procedure](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/emergency-procedure)
+7. [Scrumming the Scrum](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum)
+8. [Happiness Metric](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/happiness-metric)
+9. [Teams that Finish Early Accelerate Faster](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/teams-that-finish-early-accelerate-faster)
 ---
 ### Sutherland et al 2019
-- "A Scrum Book"
+- ["A Scrum Book"](https://pragprog.com/titles/jcscrum/)
 - Scrum Guide describes the basic rules of Scrum, the patterns amplify the guide by showing teams how to solve problems in a specific context.
 - Product Organization (1-39) and Value Stream (40-94) [Pattern Languages](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/patlets) extend [core patterns](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/the-core-patterns-in-brief).
 - [A Project Language of Highly Effective Teams](https://sites.google.com/a/scrumplop.org/published-patterns/sequences/a-project-language-of-highly-effective-teams) as example of project pattern language.
