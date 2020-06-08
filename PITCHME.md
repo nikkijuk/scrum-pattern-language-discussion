@@ -5,7 +5,7 @@
 - principles, definitions and well-known examples
 - agile, scrum & scrum pattern languages
 - snake oil & productivity 
-- project pattern language
+- ideas & recommendations
 ---
 ## One principle
 ---
@@ -196,7 +196,7 @@
 ## Productivity
 ---
 ### Team Effectiviness @ Google
-- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+- [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety): Can we take risks on this team without feeling insecure or embarrassed?
 - Dependability: Can we count on each other to do high quality work on time?
 - Structure & clarity: Are goals, roles, and execution plans on our team clear?
 - Meaning of work: Are we working on something that is personally important for each of us?
@@ -216,18 +216,28 @@
 ---
 ![psychological safety](psychological_safety.jpg)
 ---
+## ideas & recommendations
 ---
-## Project pattern language
+### Provide seed and invite to co-develop
+- Company can't easily dictate process which fits to all projects
+- It is anyway possible to make fork of some industry practices 
+- Forked practices can be presented as project pattern language(s) and templates
 ---
-yyy
-## Sources 
+### Let team decide their own process 
+- “build the right process and you’ll build the right product” (a scrum book)
+- give teams prototype company specific pattern language(s) and templates
+- team can decide to use provided material as is or adjust it
+---
+### Record lessons learned
+- Make sure prototype process is living artefact and reflects many valid viewpoints
+- Prototype pattern language(s) should be refined thru retrospectives of pattern language itself and of projects using it 
+---
+### 
 
-
-[Beedle et al] Mike Beedle, Martine Devos, Yonat Sharon, Ken Schwaber, and Jeff Sutherland. “Scrum: An extension pattern language for hyperproductive software development”, PLoP’1998.
-- https://www.researchgate.net/publication/2464945_SCRUM_An_extension_pattern_language_for_hyperproductive_software_development
-- a scrum book
-- ..
-
+## Closing
+---
+### Sprenger 2002
+“Trust allows coordinated action between partners who do not know each other. It is a substitute for knowledge of others and their motives”
 --- 
 ## Thanks for discussing!
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
