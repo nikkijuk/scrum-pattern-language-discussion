@@ -109,7 +109,7 @@
 ![beedle '97](beedle_scrum_patterns_97.png)
 ---
 ### Sutherland et al 2010 - 2017 
-- Scrum Guide, 6 revisions until now
+- Scrum Guide, 6 versions until now
 - 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
 - Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
 ---
@@ -147,7 +147,7 @@
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
 ---
-## Essemtial
+## Essential
 ---
 ### Stable Team
 ---
