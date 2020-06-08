@@ -178,9 +178,14 @@
 ---
 # What about team?
 ---
-### Self Managing Team
+### [Small Teams §9](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/small-teams)
+- Having many people working on the same thing inflates communication overhead. Therefore, use small teams of people working on serialized work rather than striving for false parallelism.
 ---
-### Happiness Metric
+### [Autonomous Team §16](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/autonomous-team)
+- If policies and procedures applied across multiple contexts are dysfunctional, then the Scrum Team governs its work free from external control, and the Development Team manages its own work.
+---
+### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
+- Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
 ---
 ## Highly recommended
 ---
@@ -189,15 +194,6 @@
 - Start the meeting with a very information review of the sprint activities, focusing on both good and bad as usual. 
 - As the meeting goes on, segue into the social side of the event and allow it to continue into the night. 
 - Be sure to include local food and some champagne.
----
-### Productivity @ Google
-- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
-- Dependability: Can we count on each other to do high quality work on time?
-- Structure & clarity: Are goals, roles, and execution plans on our team clear?
-- Meaning of work: Are we working on something that is personally important for each of us?
-- Impact of work: Do we fundamentally believe that the work we’re doing matters?
----
-![psychological safety](psychological_safety.png)
 ---
 ## Sources 
 
@@ -210,3 +206,14 @@
 --- 
 ## Thanks for discussing!
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
+---
+## Extras
+---
+### Productivity @ Google
+- Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
+- Dependability: Can we count on each other to do high quality work on time?
+- Structure & clarity: Are goals, roles, and execution plans on our team clear?
+- Meaning of work: Are we working on something that is personally important for each of us?
+- Impact of work: Do we fundamentally believe that the work we’re doing matters?
+---
+![psychological safety](psychological_safety.png)
