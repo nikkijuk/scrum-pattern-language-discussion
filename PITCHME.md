@@ -4,8 +4,8 @@
 ## agenda
 - principles, definitions and well-known examples
 - agile, scrum & scrum pattern languages
-- project pattern language
 - snake oil & productivity 
+- project pattern language
 ---
 ## One principle
 ---
@@ -193,10 +193,6 @@
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
 ---
-## Project language
----
-yyy
----
 ## Productivity
 ---
 ### Team Effectiviness @ Google
@@ -220,6 +216,10 @@ yyy
 ---
 ![psychological safety](psychological_safety.jpg)
 ---
+---
+## Project pattern language
+---
+yyy
 ## Sources 
 
 
