@@ -206,7 +206,7 @@ yyy
 - Meaning of work: Are we working on something that is personally important for each of us?
 - Impact of work: Do we fundamentally believe that the work we’re doing matters?
 ---
-![teams at google](teams_google.png)
+![teams at google](teams_google.jpg)
 ---
 ### not significantly connected with team effectiveness @Google
 - Colocation of teammates (sitting together in the same office)
@@ -218,7 +218,7 @@ yyy
 - Team size
 - Tenure
 ---
-![psychological safety](psychological_safety.png)
+![psychological safety](psychological_safety.jpg)
 ---
 ## Sources 
 
