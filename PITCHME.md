@@ -22,6 +22,15 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
+### Usage of organisational patterns
+---
+# incremental organizational improvement
+- Find the weakest part of your organization
+- Find a pattern that is likely to strengthen it
+- Apply the pattern
+- Measure the improvement or degradation
+- If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
+---
 ## Well-Known Examples
 ---
 ### GOF aka Gamma et al 1995. 
@@ -192,15 +201,6 @@
 ---
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
----
-### Usagee of organisation patterns
-Patterns provide an incremental path to organizational improvement:
-
-- Find the weakest part of your organization
-- Find a pattern that is likely to strengthen it
-- Apply the pattern
-- Measure the improvement or degradation
-- If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
 ---
 ## Productivity
 ---
