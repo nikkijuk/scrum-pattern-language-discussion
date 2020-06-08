@@ -140,8 +140,8 @@
 ### Sutherland et al 2019
 - "A Scrum Book"
 - Scrum Guide describes the basic rules of Scrum, the patterns amplify the guide by showing teams how to solve problems in a specific context.
-- Product Organization and Value Stream Pattern Languages (together 94 patterns).
-- A Project Language of Highly Effective Teams as example of project pattern language.
+- Product Organization (1-39) and Value Stream (40-94) [Pattern Languages](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/patlets) extend [core patterns](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/the-core-patterns-in-brief).
+- [A Project Language of Highly Effective Teams](https://sites.google.com/a/scrumplop.org/published-patterns/sequences/a-project-language-of-highly-effective-teams) as example of project pattern language.
 ---
 ![Organisational scrum patterns](sutherland_2019_organisational.png)
 ---
