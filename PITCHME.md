@@ -108,6 +108,13 @@
 ---
 ![beedle '97](beedle_scrum_patterns_97.png)
 ---
+### Sutherland et al 2010 
+- Scrum Guide, 6 revisions until now
+- 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
+- Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
+---
+![scrum guide 2010 - 2017](scrum_guide_revisions.png)
+---
 ### Beedle et al 2010
 - "Essential Scrum Patterns"
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
