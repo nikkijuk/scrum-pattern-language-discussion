@@ -199,7 +199,7 @@ yyy
 ---
 ## Productivity
 ---
-### Productivity @ Google
+### Team Effectiviness @ Google
 - Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
 - Dependability: Can we count on each other to do high quality work on time?
 - Structure & clarity: Are goals, roles, and execution plans on our team clear?
@@ -207,6 +207,16 @@ yyy
 - Impact of work: Do we fundamentally believe that the work we’re doing matters?
 ---
 ![psychological safety](psychological_safety.png)
+---
+### not significantly connected with team effectiveness @Google
+- Colocation of teammates (sitting together in the same office)
+- Consensus-driven decision making
+- Extroversion of team members
+- Individual performance of team members
+- Workload size
+- Seniority
+- Team size
+- Tenure
 ---
 ## Sources 
 
