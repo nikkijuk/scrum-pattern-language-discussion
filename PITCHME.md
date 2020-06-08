@@ -25,35 +25,35 @@
 ## Well-Known Examples
 ---
 ### GOF aka Gamma et al 1995. 
-- Design Patterns: Elements of Reusable Object-Oriented Software.  
+- [Design Patterns: Elements of Reusable Object-Oriented Software.](https://en.wikipedia.org/wiki/Design_Patterns)  
 - Creational, Behavioral and Structural patterns
 - Iterator, visitor, Bridge, Builder, Decorator, ..
 ---
 ![gof](gof_patterns.gif)
 ---
 ### POSA 1 aka Buschmann et al 1996. 
-- Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.
+- [Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
 - Architectural and Design Pattern, Idioms
 - Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
 ---
 ![posa-1](posa1_patterns.png)
 ---
 ### Hohpe & Woolf 2003. 
-- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions. 
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions.](https://www.enterpriseintegrationpatterns.com/) 
 - Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
 - Idempotent Receiver, Message Bus, Canonical Data Model, ..
 ---
 ![eai](eai_patterns.png)
 ---
 ### Evans 2004. 
-- Domain-Driven Design: Tackling Complexity in the Heart of Software.
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
 - Organized by process, not by patterns
 - Bounded Context, Ubiquitous language, ..
 ---
 ![ddd](ddd_patterns.png)
 ---
 ### Coplien & Harrison 2004
-- Organizational Patterns of Agile Software Development
+- [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
 - Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
 - Self selecting team, Unity of Purpose, ..
 ---
@@ -193,6 +193,15 @@
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
 ---
+### Usagee of organisation patterns
+Patterns provide an incremental path to organizational improvement:
+
+- Find the weakest part of your organization
+- Find a pattern that is likely to strengthen it
+- Apply the pattern
+- Measure the improvement or degradation
+- If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
+---
 ## Productivity
 ---
 ### Team Effectiviness @ Google
@@ -219,12 +228,12 @@
 ## ideas & recommendations
 ---
 ### Provide seed and invite to co-develop
-- company or industy can't dictate process which should fit to all projects
-- it is anyway possible to make fork of some industry practices and evaluate their usefulness
-- when initial seed is greated by small group of people it should start living
+- "Patterns are those arrangements or systems of internal relationship which give to any culture its coherence or plan, and keep it from being a mere accumulation of random bits. They are therefore of primary importance."
+- make fork of selected industry practices and present them as pattern language
+- when initial seed is created by small group it should start mutating and evolving
 ---
 ### Let team decide their own process 
-- “build the right process and you’ll build the right product” (a scrum book)
+- “build the right process and you’ll build the right product”
 - teams can serve themselves from provided pattern language(s) and templates
 - team can decide to use provided material as is or adjust it for their use
 ---
