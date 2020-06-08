@@ -219,21 +219,20 @@
 ## ideas & recommendations
 ---
 ### Provide seed and invite to co-develop
-- Company can't easily dictate process which fits to all projects
-- It is anyway possible to make fork of some industry practices 
-- Forked practices can be presented as project pattern language(s) and templates
+- company or industy can't dictate process which should fit to all projects
+- it is anyway possible to make fork of some industry practices and evaluate their usefulness
+- when initial seed is greated by small group of people it should start living
 ---
 ### Let team decide their own process 
 - “build the right process and you’ll build the right product” (a scrum book)
-- give teams prototype company specific pattern language(s) and templates
-- team can decide to use provided material as is or adjust it
+- teams can serve themselves from provided pattern language(s) and templates
+- team can decide to use provided material as is or adjust it for their use
 ---
 ### Record lessons learned
-- Make sure prototype process is living artefact and reflects many valid viewpoints
-- Prototype pattern language(s) should be refined thru retrospectives of pattern language itself and of projects using it 
+- make sure patterns and teamplates are living artefact and reflects many valid viewpoints
+- pattern language(s) and templated should be refined thru retrospectives of pattern language itself and of projects using it
+- controlled chaos needs some streetign structures, which itself can be described as pattern language or patterns  
 ---
-### 
-
 ## Closing
 ---
 ### Sprenger 2002
