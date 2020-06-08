@@ -101,7 +101,7 @@
 - [Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
 - Patterns can be used to build an organization and to guide its development process in the domain of software development.
 - A good set of organizational patterns helps to (indirectly) generate the right process.
-- Kent Beck was reviewer of the Coplien paper for the 1995 PLoP and this influenced extreme programming. 
+- Kent Beck was reviewer of the Copliens paper for the 1995 PLoP and this influenced XP. 
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
