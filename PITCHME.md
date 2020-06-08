@@ -113,7 +113,7 @@
 - 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
 - Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
 ---
-![scrum guide 2010 - 2017](scrum_guide_revisions.png)
+![scrum guide 2010 - 2017](scrum_guide_revisions.jpg)
 ---
 ### Beedle et al 2010
 - "Essential Scrum Patterns"
