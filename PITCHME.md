@@ -132,12 +132,21 @@
 ---
 ### Sutherland et al 2019
 - "A Scrum Book"
-- Product Organization and Value Stream Pattern Languages (together 94 patterns)
-- A Project Language of Highly Effective Teams as example of custom pattern language
+- Scrum Guide describes the basic rules of Scrum, the patterns amplify the guide by showing teams how to solve problems in a specific context.
+- Product Organization and Value Stream Pattern Languages (together 94 patterns).
+- A Project Language of Highly Effective Teams as example of project pattern language.
 ---
 ![Organisational scrum patterns](sutherland_2019_organisational.png)
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
+---
+## Essemtial
+---
+### Stable Team
+---
+### Self Managing Team
+---
+### Happiness Metric
 ---
 ## Highly recommended
 ---
