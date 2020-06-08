@@ -93,7 +93,7 @@
 - Kent Beck was reviewer of the Coplien paper for the 1995 PLoP and this influenced extreme programming. 
 - The idea of daily Scrum meetings came from a draft of an article that described the organizational patterns research on the Borland QPW project. 
 - Beedle's early work with Sutherland brought the pattern perspective more solidly into the history of Scrum.
-----
+---
 ![agile manifesto](agile_manifesto.png)
 ---
 ### Scrum 1993 - 1995
