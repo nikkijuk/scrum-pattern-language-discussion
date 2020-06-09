@@ -81,6 +81,11 @@
 ---
 ![s3](s3_pattern_map.png)
 ---
+### Additional pattern languages
+- [DevOps] (https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern
+- [Microservices architecture](https://microservices.io/) can be described with pattern language.
+- [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
+---
 ## Scrum, Organisational Patterns & Agile
 ---
 ### Schwaber 1995
@@ -231,11 +236,15 @@
 ---
 ![psychological safety](psychological_safety.jpg)
 ---
+### Gallup
+- ["Worldwide, 13% of Employees Are Engaged at Work"](https://news.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx)
+- See it positively: "Low workplace engagement offers opportunities to improve business outcomes"
+---
 ## ideas & recommendations
 ---
 ### Guiding idea
 - Each tram should be aware of default process which has worked in past.
-- Selecting default should be easy and not selecting default should be possible.
+- [Selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
 - It should be possible to commit on teams working practices without being expert of used methods already.
 ---
 ### Organisation provides seed and invites to co-develop
@@ -248,7 +257,7 @@
 - teams can serve themselves from provided pattern language(s) and templates
 - team can decide to use provided material as is or adjust it for their use
 ---
-### Retrospectives are used for reflexion
+### Retrospectives used for reflection 
 - make sure patterns and templates are living artifacts and reflect many valid viewpoints
 - pattern language(s) and templates should be refined thru retrospectives of pattern language itself and of projects using it
 - controlled chaos needs some streering structures, which itself can be described as pattern language   
