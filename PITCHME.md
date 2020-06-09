@@ -101,9 +101,10 @@
 ---
 ![scrum methodology 1995](scrum_methodology_1995.png)
 ---
-- SCRUM assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression. 
-- SCRUM defines the systems development process as a loose set of activities that combines known, workable tools and techniques with the best that a development team can devise to build systems. Since these activities are loose, controls to manage the process and inherent risk are used. 
-- SCRUM is an enhancement of the commonly used iterative/incremental object-oriented development cycle.
+### Scrum
+- ".. assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression." 
+- ".. defines the systems development process as a loose set of activities that combines known, workable tools and techniques with the best that a development team can devise to build systems. Since these activities are loose, controls to manage the process and inherent risk are used." 
+- ".. is an enhancement of the commonly used iterative/incremental object-oriented development cycle."
 ---
 ![scrum methodology 2 1995](scrum_methodology_2_1995.png)
 ---
@@ -115,8 +116,8 @@
 ---
 ### Coplien & Schmidt 1995
 - ["A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
-- Patterns can be used to build an organization and to guide its development process in the domain of software development.
-- A good set of organizational patterns helps to (indirectly) generate the right process.
+- "patterns can be used to build an organization and to guide its development process in the domain of software development."
+- "a good set of organizational patterns helps to (indirectly) generate the right process."
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
