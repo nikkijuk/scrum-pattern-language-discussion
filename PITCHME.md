@@ -82,7 +82,7 @@
 ![s3](s3_pattern_map.png)
 ---
 ### Additional pattern languages
-- [DevOps] (https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern
+- [DevOps] (https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
 - [Microservices architecture](https://microservices.io/) can be described with pattern language.
 - [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
 ---
