@@ -63,6 +63,7 @@
 ---
 ### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
+- "organizational patterns aren't created or invented: they are discovered (or "mined") from empirical observation."
 - Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
 - Self selecting team, Unity of Purpose, ..
 ---
