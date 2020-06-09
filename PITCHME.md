@@ -3,7 +3,7 @@
 ---
 ## agenda
 - principles, definitions and well-known examples
-- agile, scrum & scrum pattern languages
+- agile, scrum & organisational patterns
 - snake oil & productivity 
 - ideas & recommendations
 ---
@@ -56,12 +56,12 @@
 ---
 ### Evans 2004. 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
-- Organized by process, not by patterns
-- Bounded Context, Ubiquitous language, ..
+- Organized by process, not by patterns.
+- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
 ---
 ![ddd](ddd_patterns.png)
 ---
-### Coplien & Harrison 2004
+### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
 - Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
 - Self selecting team, Unity of Purpose, ..
@@ -233,20 +233,25 @@
 ---
 ## ideas & recommendations
 ---
-### Provide seed and invite to co-develop
-- "Patterns are those arrangements or systems of internal relationship which give to any culture its coherence or plan, and keep it from being a mere accumulation of random bits. They are therefore of primary importance."
+### Guiding idea
+- Each tram should be aware of default process which has worked in past.
+- Selecting default should be easy and not selecting default should be possible.
+- It should be possible to commit on teams working practices without being expert of used methods already.
+---
+### Organisation provides seed and invites to co-develop
+- find point of improvement and envision default process which addresses current challnges.
 - make fork of selected industry practices and present them as pattern language
 - when initial seed is created by small group it should start mutating and evolving
 ---
-### Let team decide their own process 
+### Teams decide their own process 
 - “build the right process and you’ll build the right product”
 - teams can serve themselves from provided pattern language(s) and templates
 - team can decide to use provided material as is or adjust it for their use
 ---
-### Record lessons learned
-- make sure patterns and teamplates are living artefact and reflects many valid viewpoints
-- pattern language(s) and templated should be refined thru retrospectives of pattern language itself and of projects using it
-- controlled chaos needs some streetign structures, which itself can be described as pattern language or patterns  
+### Learning is amplified by retrospectives
+- make sure patterns and templates are living artifacts and reflect many valid viewpoints
+- pattern language(s) and templates should be refined thru retrospectives of pattern language itself and of projects using it
+- controlled chaos needs some streering structures, which itself can be described as pattern language or patterns  
 ---
 ## Closing
 ---
