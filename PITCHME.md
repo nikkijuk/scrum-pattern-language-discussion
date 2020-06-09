@@ -120,6 +120,13 @@
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
+### Cockburn 95 - 96
+- ["Patterns of Project Management Risk Reduction"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi42oWh1PXpAhUE66QKHWv6AlwQFjAAegQIAxAB&url=https%3A%2F%2Falistair.cockburn.us%2Fwp-content%2Fuploads%2F2018%2F02%2F73b65078-ec7f-44b5-b141-0b120336e767.pdf&usg=AOvVaw3xdKakfBBOZP0Smo4EWF9w)
+- "Each situation results from some force getting out of balance. So, one pattern may remedy several situations."
+- "Similarly, any one situation has several possible remedies, depending on small variations in the situation, or your personal management style."
+---
+![agile history](agile_history.png)
+---
 ### Beedle et al. 1997.
 - ["SCRUM: An extension pattern language for hyperproductive software development"](https://www.semanticscholar.org/paper/SCRUM%3A-An-extension-pattern-language-for-hyper-Beedle-DeVos/8658dbfb4bc0f8474a513adf0b51b1cfc2419a02)
 - "When combined together, SCRUM and other organizational patterns, and specially those by Coplien, provide with an adaptive, yet well structured software development organization."
