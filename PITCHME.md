@@ -82,9 +82,13 @@
 ---
 ![s3](s3_pattern_map.png)
 ---
-### Additional pattern languages
+### Additional technical patterns
+- [Software architecture development](https://www.amazon.de/-/en/dp/B07X8289XR/) has its own pattern language.
 - [DevOps](https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
 - [Microservices architecture](https://microservices.io/) can be described with pattern language.
+---
+### Additional organisational pattern
+- [Driving changes](https://fearlesschangepatterns.com/) can be guided by patterns.
 - [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
 ---
 ## Scrum, Organisational Patterns & Agile
@@ -168,7 +172,7 @@
 ---
 ![scrum value stream patterns](sutherland_2019_value_stream.png)
 ---
-## What about hyperproductivity?
+## hyperproductivity patterns
 ---
 ### [Stable Teams §15](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)  
 - If you need predictability, then keep teams stable and avoid shuffling people around between teams.
@@ -197,7 +201,7 @@
 ### [Teams that Finish Early Accelerate Faster §74](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/teams-that-finish-early-accelerate-faster)
 - Teams often take too much work into a Sprint and cannot finish it. Failure to attain the Sprint Goal prevents the team from improving. Therefore, take less work into a Sprint.
 ---
-# What about team?
+# team patterns
 ---
 ### [Collocated Team §8](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/collocated-team) 
 - If the complexity of collaborative development demands high-fidelity communication, then locate the team together within talking distance.
