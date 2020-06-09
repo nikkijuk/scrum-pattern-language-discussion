@@ -56,7 +56,7 @@
 ---
 ### Evans 2004. 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
-- "DDD provides a structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains."
+- "structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains."
 - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
 ---
 ![ddd](ddd_patterns.png)
@@ -87,7 +87,7 @@
 - [DevOps](https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
 - [Microservices architecture](https://microservices.io/) can be described with pattern language.
 ---
-### Additional organisational pattern
+### Additional organisational patterns
 - [Driving changes](https://fearlesschangepatterns.com/) can be guided by patterns.
 - [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
 ---
@@ -143,7 +143,7 @@
 ### Beedle et al 2010 (working paper)
 - ["Essential Scrum Patterns"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAi7CTrfLpAhVnzqYKHXATCmcQFjAAegQIAxAB&url=http%3A%2F%2Fwww.hillside.net%2Fplop%2F2010%2Fpapers%2Fbeedle.pdf&usg=AOvVaw1ykjztZJZ-eRWt7WUQL2ti)
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
-- Close to Essential: Sprint Retrospective, Release Planning Meeting Release Burndown, Visible Status 
+- Close to Essential: Sprint Retrospective, Release Planning Meeting, Release Burndown, Visible Status 
 ---
 ![Essential patterns](beedle_2010_essential_patterns_bok.jpg)
 ---
@@ -247,24 +247,20 @@
 ---
 ## ideas & recommendations
 ---
-### Guiding idea
-- Each tram should be aware of default process which has worked in past.
-- [Selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
-- It should be possible to commit on teams working practices without being expert of used methods already.
+### Teams are units of action
+- each team should be aware of default process which has worked in the past.
+- [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
 ---
-### Organisation provides seed and invites to co-develop
-- find point of improvement and envision default process which addresses current challnges.
-- make fork of selected industry practices and present them as pattern language
-- when initial seed is created by small group it should start mutating and evolving
+### Provide seed process and invite to co-develop
+- find point of improvement and envision default process which addresses current needs.
+- make fork of selected industry practices and share them as pattern language.
 ---
 ### Teams decide their own process 
 - “build the right process and you’ll build the right product”
-- teams can serve themselves from provided pattern language(s) and templates
 - team can decide to use provided material as is or adjust it for their use
 ---
 ### Retrospectives used for reflection 
 - make sure patterns and templates are living artifacts and reflect many valid viewpoints
-- pattern language(s) and templates should be refined thru retrospectives of pattern language itself and of projects using it
 - controlled chaos needs some streering structures, which itself can be described as pattern language   
 ---
 ## Closing
