@@ -56,7 +56,7 @@
 ---
 ### Evans 2004. 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
-- Organized by process, not by patterns.
+- "DDD provides a structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains."
 - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
 ---
 ![ddd](ddd_patterns.png)
@@ -82,7 +82,7 @@
 ![s3](s3_pattern_map.png)
 ---
 ### Additional pattern languages
-- [DevOps] (https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
+- [DevOps](https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
 - [Microservices architecture](https://microservices.io/) can be described with pattern language.
 - [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
 ---
