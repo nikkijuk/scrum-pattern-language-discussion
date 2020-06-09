@@ -156,8 +156,8 @@
 ---
 ### Sutherland & al 2014
 - ["Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"](https://www.semanticscholar.org/paper/Teams-That-Finish-Early-Accelerate-Faster%3A-A-for-Sutherland-Harrison/cb929a4e0a9fd949fbc16bb29da0d8995d23a6bb)
-- A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework.
-- A subset of the Scrum patterns form in essence a vocabulary of a Pattern Language for Hyper-Productive Teams.
+- "A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework."
+- "A subset of the Scrum patterns form a vocabulary of a Pattern Language for Hyper-Productive Teams."
 ---
 1. [Stable Teams](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/stable-teams)
 2. [Yesterday’s Weather](https://sites.google.com/a/scrumplop.org/published-patterns/value-stream/estimation-points/yesterday-s-weather)
