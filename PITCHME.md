@@ -84,11 +84,11 @@
 ---
 ### Additional technical patterns
 - [Software architecture development](https://www.amazon.de/-/en/dp/B07X8289XR/) has its own pattern language.
-- [DevOps](https://www.researchgate.net/publication/331704102_Engineering_Software_for_the_Cloud_Patterns_and_Sequences) can be seen as pattern or pattern language.
+- [Cloud Computing](https://www.springer.com/gp/book/9783709115671) can be seen as pattern language.
 - [Microservices architecture](https://microservices.io/) can be described with pattern language.
 ---
 ### Additional organisational patterns
-- [Driving changes](https://fearlesschangepatterns.com/) can be guided by patterns.
+- [Driving change](https://fearlesschangepatterns.com/) can be guided by patterns.
 - [Liberationg structures](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/) can be seen as pattern language for engagement.
 ---
 ## Scrum, Organisational Patterns & Agile
