@@ -135,8 +135,8 @@
 ![beedle '97](beedle_scrum_patterns_97.png)
 ---
 ### Agile Manifesto 2001 
-- [Mike Beedle](https://en.wikipedia.org/wiki/Mike_Beedle) proposed term "Agile". 
-- "We had proposed Adaptive, Essential, Lean and Lightweight. We did not want to use Adaptive because Jim Highsmith had given this to one of his works. Essential sounded overly proud. Lean had already been taken. Nobody wanted to be a lightweight. We did this late in the second day and it took only a few minutes to decide on this."
+- "a bigger gathering of organizational anarchists would be hard to find, so what emerged from this meeting was symbolic"
+- Cockburn: "I personally didn't expect that this particular group of agilites to ever agree on anything substantive."
 ---
 ![agile manifesto](agile_manifesto.png)
 ---
