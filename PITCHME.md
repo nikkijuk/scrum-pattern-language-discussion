@@ -83,8 +83,8 @@
 ---
 ## Scrum, Organisational Patterns & Agile
 ---
-### Scrum 1993 - 1995
-- Used by Sutherland since 1993, described 1995 by Schwaber at ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
+### Schwaber 1995
+- ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
 - Called process and methodology in first papers, later defined as framework
 - Idea of daily Scrum is from organizational patterns research on the Borland QPW project. 
 - Influenced by Nonaka & Takeuchi: "New New Product Development Game" (1986), Seci-model (1990)
