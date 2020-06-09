@@ -248,10 +248,10 @@
 - teams can serve themselves from provided pattern language(s) and templates
 - team can decide to use provided material as is or adjust it for their use
 ---
-### Learning is amplified by retrospectives
+### Retrospectives are used for reflexion
 - make sure patterns and templates are living artifacts and reflect many valid viewpoints
 - pattern language(s) and templates should be refined thru retrospectives of pattern language itself and of projects using it
-- controlled chaos needs some streering structures, which itself can be described as pattern language or patterns  
+- controlled chaos needs some streering structures, which itself can be described as pattern language   
 ---
 ## Closing
 ---
