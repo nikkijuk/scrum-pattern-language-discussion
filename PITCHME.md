@@ -99,15 +99,14 @@
 ---
 ### Cunningham 1995
 - ["EPISODES: A Pattern Language of Competitive Development"](episodes.fed.wiki.org/) 
-- "We find ourselves unable under competitive pressure to make the kind of careful decisions we would like. These patterns tell what decisions can be made, in fact should be made, to maintain continuous forward motion through itterative development."
+- "We find ourselves unable under competitive pressure to make the kind of careful decisions we would like. These patterns tell what decisions can be made, in fact should be made, to maintain continuous forward motion through iterative development."
 ---
 ![episodes](episodes_pattern_map_1995.png)
 ---
-### Coplien & Schmidt 1995.
-- [Pattern Languages of Program Design 1 - "A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
+### Coplien & Schmidt 1995
+- ["A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
 - Patterns can be used to build an organization and to guide its development process in the domain of software development.
 - A good set of organizational patterns helps to (indirectly) generate the right process.
-- Kent Beck was reviewer of the Copliens paper for the 1995 PLoP and this influenced XP. 
 ---
 ![coplien '95](coplien_1995_plop.png)
 ---
