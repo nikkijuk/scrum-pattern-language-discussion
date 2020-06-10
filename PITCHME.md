@@ -96,8 +96,8 @@
 ### Schwaber 1995
 - ["SCRUM Development Process"](https://www.semanticscholar.org/paper/SCRUM-Development-Process-Schwaber/8e1c7055ee7f45581fb19934d5aef2b48b931802)
 - Called process and methodology in first papers, later defined as framework
-- Idea of daily Scrum is from organizational patterns research on the Borland QPW project. 
-- Influenced by Nonaka & Takeuchi: "New New Product Development Game" (1986), Seci-model (1990)
+- Idea of Daily Scrum is from Dr.Dobb's article of organizational patterns research on the Borland QPW project. 
+- Influenced heavily by Nonaka & Takeuchi: "The New New Product Development Game" (1986) & Seci-Model (1990)
 ---
 ![scrum methodology 1995](scrum_methodology_1995.png)
 ---
