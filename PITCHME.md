@@ -275,9 +275,12 @@
 ### Sprenger 2002
 “Trust allows coordinated action between partners who do not know each other. It is a substitute for knowledge of others and their motives”
 --- 
-## Thanks for discussing!
+### Thanks for discussing!
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
 ---
+### Further reading
+- [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
+
 ## Extras
 ---
 ### Sauna Sprint Review
