@@ -90,8 +90,8 @@
 ---
 ### Additional pattern languages
 - [Microservices architecture pattern language](https://microservices.io/) by Chris Richardson.
-- [Agile Software architecture pattern language](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
-- [Organizational change Patterns language](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
+- [Agile Software architecture practices pattern language](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
+- [Organizational change Patterns](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
 - [Liberationg structures engagement pattern language](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/).
 ---
 ## Scrum, Organisational Patterns & Agile
