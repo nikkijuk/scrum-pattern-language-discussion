@@ -242,7 +242,6 @@
 - steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
 ## Closing
----
 “build the right process and you’ll build the right product”
 ---
 ### Further reading & sources
