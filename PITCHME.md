@@ -51,7 +51,7 @@
 ---
 ### Hohpe & Woolf 2003. 
 - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions.](https://www.enterpriseintegrationpatterns.com/) 
-- Usage: Design of distributed systems / integration of systems
+- Usage: Integration of systems
 - Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
 - Idempotent Receiver, Message Bus, Canonical Data Model, ..
 ---
@@ -219,7 +219,7 @@
 ### [Small Teams §9](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/small-teams)
 - Having many people working on the same thing inflates communication overhead. Therefore, use small teams of people working on serialized work rather than striving for false parallelism.
 ---
-### [Cross-Functional Team § 10](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/cross-functional-team) 
+### [Cross-Functional Team §10](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/cross-functional-team) 
 - Organizations often organize around areas of competence, but it is too slow to coordinate across these boundaries. Therefore, the team as a whole should embody all the talent necessary to deliver product.
 ---
 ### [Autonomous Team §16](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/autonomous-team)
@@ -271,27 +271,12 @@
 ---
 ### Retrospectives used for reflection 
 - make sure patterns and templates are living artifacts and reflect many valid viewpoints
-- controlled chaos needs some streering structures, which itself can be described as pattern language   
+- maintenance of pattern language could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
-## Closing
----
-### Sprenger 2002
-“Trust allows coordinated action between partners who do not know each other. It is a substitute for knowledge of others and their motives”
---- 
-### Thanks for discussing!
-- https://github.com/nikkijuk/scrum-pattern-language-discussion
----
-### Further reading
+### Further reading & sources
 - [Scrum patterns website](http://scrumbook.org/)
 - [Scrum Plop website](http://www.scrumplop.org/)
 - [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
-- [Sutherland: Takeuchi & Nonaka - Roots of Scrum](https://www.scruminc.com/takeuchi-and-nonaka-roots-of-scrum/)
-- [Sutherland: Product Owner and OODA loop](https://www.scruminc.com/on-fighter-pilots-and-product-owners/)
 ---
-## Extras
----
-### Sauna Sprint Review
-- After a particularly successful sprint, or a sprint that is otherwise worthy of celebration, rent a sauna for the sprint review. 
-- Start the meeting with a very information review of the sprint activities, focusing on both good and bad as usual. 
-- As the meeting goes on, segue into the social side of the event and allow it to continue into the night. 
-- Be sure to include local food and some champagne.
+### Thanks for discussing!
+- https://github.com/nikkijuk/scrum-pattern-language-discussion
