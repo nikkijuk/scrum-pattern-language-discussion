@@ -4,6 +4,20 @@ Slides for a discussion about how scrum patterns could be used as part of compan
 
 See here [rendered version of the slides](https://gitpitch.com/nikkijuk/scrum-pattern-language-discussion/master?grs=github&t=moon)
 
+# Motivation from Wikipedia Organisational patterns article
+
+"
+Patterns provide an incremental path to organizational improvement. 
+
+The pattern style of building something (in this case, an organization) is:
+
+    Find the weakest part of your organization
+    Find a pattern that is likely to strengthen it
+    Apply the pattern
+    Measure the improvement or degradation
+    If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
+"
+
 # Motivation from "A Scrum Book" website
 
 "
