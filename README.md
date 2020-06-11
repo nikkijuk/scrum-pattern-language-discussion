@@ -15,7 +15,9 @@ The pattern style of building something (in this case, an organization) is:
     Find a pattern that is likely to strengthen it
     Apply the pattern
     Measure the improvement or degradation
-    If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
+    If the pattern improved things, 
+       go to step 1 and find the next improvement; 
+       otherwise, undo the pattern and try an alternative.
 "
 
 # Motivation from "A Scrum Book" website
