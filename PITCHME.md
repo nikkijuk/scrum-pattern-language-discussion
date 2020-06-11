@@ -1,5 +1,5 @@
 ### Scrum Pattern Language Discussion
-![Logo](images/jambit_logo.png)
+![Logo](assets/img/jambit_logo.png)
 ---
 ## agenda
 - principles, definitions and well-known examples
@@ -38,28 +38,28 @@
 - Creational, Behavioral and Structural patterns
 - Iterator, visitor, Bridge, Builder, Decorator, ..
 ---
-![gof](images/gof_patterns.gif)
+![gof](assets/img/gof_patterns.gif)
 ---
 ### POSA 1 aka Buschmann et al 1996. 
 - [Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
 - Architectural and Design Pattern, Idioms
 - Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
 ---
-![posa-1](images/posa1_patterns.png)
+![posa-1](assets/img/posa1_patterns.png)
 ---
 ### Hohpe & Woolf 2003. 
 - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions.](https://www.enterpriseintegrationpatterns.com/) 
 - Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
 - Idempotent Receiver, Message Bus, Canonical Data Model, ..
 ---
-![eai](images/eai_patterns.png)
+![eai](assets/img/eai_patterns.png)
 ---
 ### Evans 2004. 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
 - "structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains."
 - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
 ---
-![ddd](images/ddd_patterns.png)
+![ddd](assets/img/ddd_patterns.png)
 ---
 ### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
@@ -67,20 +67,20 @@
 - Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
 - Self selecting team, Unity of Purpose, ..
 ---
-![Org style](images/coplien_2004_organisational_style.png)
+![Org style](assets/img/coplien_2004_organisational_style.png)
 ---
-![People & Code](images/coplien_2004_people_and_code.png)
+![People & Code](assets/img/coplien_2004_people_and_code.png)
 ---
-![Piecemeal Growth](images/coplien_2004_piecemeal_growth.png)
+![Piecemeal Growth](assets/img/coplien_2004_piecemeal_growth.png)
 ---
-![Project Management](images/coplien_2004_project_management.png)
+![Project Management](assets/img/coplien_2004_project_management.png)
 ---
 ### Priest et al late 2010's. 
 - [Sociocracy 3.0 patterns](https://patterns.sociocracy30.org/)
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
 - Navigate Via Tension, Consent Decision Making, ..
 ---
-![s3](images/s3_pattern_map.png)
+![s3](assets/img/s3_pattern_map.png)
 ---
 ### Additional technical patterns
 - [Software architecture development](https://www.amazon.de/-/en/dp/B07X8289XR/) has its own pattern language.
@@ -99,60 +99,60 @@
 - Idea of Daily Scrum is from Dr.Dobb's article of organizational patterns research on the Borland QPW project. 
 - Influenced heavily by Nonaka & Takeuchi: "The New New Product Development Game" (1986) & Seci-Model (1990)
 ---
-![scrum methodology 1995](images/scrum_methodology_1995.png)
+![scrum methodology 1995](assets/img/scrum_methodology_1995.png)
 ---
 - "SCRUM assumes that the systems development process is an unpredictable, complicated process that can only be roughly described as an overall progression." 
 - "SCRUM defines the systems development process as a loose set of activities that combines known, workable tools and techniques with the best that a development team can devise to build systems. Since these activities are loose, controls to manage the process and inherent risk are used." 
 - "SCRUM is an enhancement of the commonly used iterative/incremental object-oriented development cycle."
 ---
-![scrum methodology 2 1995](images/scrum_methodology_2_1995.png)
+![scrum methodology 2 1995](assets/img/scrum_methodology_2_1995.png)
 ---
 ### Cunningham 1995
 - ["EPISODES: A Pattern Language of Competitive Development"](episodes.fed.wiki.org/) 
 - "We find ourselves unable under competitive pressure to make the kind of careful decisions we would like. These patterns tell what decisions can be made, in fact should be made, to maintain continuous forward motion through iterative development."
 ---
-![episodes](images/episodes_pattern_map_1995.png)
+![episodes](assets/img/episodes_pattern_map_1995.png)
 ---
 ### Coplien & Schmidt 1995
 - ["A Development Process Generative Pattern Language"](https://www.semanticscholar.org/paper/A-development-process-generative-pattern-language-Coplien/04d923750e0beea90c3ec84082ad4bcc1ac690b0)
 - "patterns can be used to build an organization and to guide its development process in the domain of software development."
 - "a good set of organizational patterns helps to (indirectly) generate the right process."
 ---
-![coplien '95](images/coplien_1995_plop.png)
+![coplien '95](assets/img/coplien_1995_plop.png)
 ---
 ### Cockburn 95 - 96
 - ["Patterns of Project Management Risk Reduction"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi42oWh1PXpAhUE66QKHWv6AlwQFjAAegQIAxAB&url=https%3A%2F%2Falistair.cockburn.us%2Fwp-content%2Fuploads%2F2018%2F02%2F73b65078-ec7f-44b5-b141-0b120336e767.pdf&usg=AOvVaw3xdKakfBBOZP0Smo4EWF9w)
 - "Each situation results from some force getting out of balance. So, one pattern may remedy several situations."
 - "Similarly, any one situation has several possible remedies, depending on small variations in the situation, or your personal management style."
 ---
-![agile history](images/agile_history.png)
+![agile history](assets/img/agile_history.png)
 ---
 ### Beedle et al. 1997.
 - ["SCRUM: An extension pattern language for hyperproductive software development"](https://www.semanticscholar.org/paper/SCRUM%3A-An-extension-pattern-language-for-hyper-Beedle-DeVos/8658dbfb4bc0f8474a513adf0b51b1cfc2419a02)
 - "When combined together, SCRUM and other organizational patterns, and specially those by Coplien, provide with an adaptive, yet well structured software development organization."
 - Beedle's work with Sutherland brought the pattern perspective to Scrum.
 ---
-![beedle '97](images/beedle_scrum_patterns_97.png)
+![beedle '97](assets/img/beedle_scrum_patterns_97.png)
 ---
 ### Agile Manifesto 2001 
 - "a bigger gathering of organizational anarchists would be hard to find, so what emerged from this meeting was symbolic"
 - Cockburn: "I personally didn't expect that this particular group of agilites to ever agree on anything substantive."
 ---
-![agile manifesto](images/agile_manifesto.png)
+![agile manifesto](assets/img/agile_manifesto.png)
 ---
 ### Sutherland et al 2010 - 2017 
 - [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
 - 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
 - Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
 ---
-![scrum guide 2010 - 2017](images/scrum_guide_revisions.jpg)
+![scrum guide 2010 - 2017](assets/img/scrum_guide_revisions.jpg)
 ---
 ### Beedle et al 2010 (working paper)
 - ["Essential Scrum Patterns"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAi7CTrfLpAhVnzqYKHXATCmcQFjAAegQIAxAB&url=http%3A%2F%2Fwww.hillside.net%2Fplop%2F2010%2Fpapers%2Fbeedle.pdf&usg=AOvVaw1ykjztZJZ-eRWt7WUQL2ti)
 - Product Backlog, ProductOwner, ScrumTeam, ScrumMaster, Sprint Backlog, Sprint Planning Meeting, Sprint, Daily Scrum, Sprint Burndown, Sprint Review Meeting 
 - Close to Essential: Sprint Retrospective, Release Planning Meeting, Release Burndown, Visible Status 
 ---
-![Essential patterns](images/beedle_2010_essential_patterns_bok.jpg)
+![Essential patterns](assets/img/beedle_2010_essential_patterns_bok.jpg)
 ---
 ### Sutherland & al 2014
 - ["Teams that Finish Early Accelerate Faster: A Pattern Language for High Performing Scrum Teams"](https://www.semanticscholar.org/paper/Teams-That-Finish-Early-Accelerate-Faster%3A-A-for-Sutherland-Harrison/cb929a4e0a9fd949fbc16bb29da0d8995d23a6bb)
@@ -175,9 +175,9 @@
 - Product Organization (1-39) and Value Stream (40-94) [Pattern Languages](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/patlets) extend [core patterns](https://sites.google.com/a/scrumplop.org/published-patterns/book-outline/the-core-patterns-in-brief).
 - [A Project Language of Highly Effective Teams](https://sites.google.com/a/scrumplop.org/published-patterns/sequences/a-project-language-of-highly-effective-teams) as example of project pattern language.
 ---
-![Organisational scrum patterns](images/sutherland_2019_organisational.png)
+![Organisational scrum patterns](assets/img/sutherland_2019_organisational.png)
 ---
-![scrum value stream patterns](images/sutherland_2019_value_stream.png)
+![scrum value stream patterns](assets/img/sutherland_2019_value_stream.png)
 ---
 ## hyperproductivity patterns
 ---
@@ -234,7 +234,7 @@
 - Meaning of work: Are we working on something that is personally important for each of us?
 - Impact of work: Do we fundamentally believe that the work we’re doing matters?
 ---
-![teams at google](images/teams_google.png)
+![teams at google](assets/img/teams_google.png)
 ---
 ### not significantly connected with team effectiveness @Google
 - Colocation of teammates (sitting together in the same office)
@@ -246,7 +246,7 @@
 - Team size
 - Tenure
 ---
-![psychological safety](images/psychological_safety.jpg)
+![psychological safety](assets/img/psychological_safety.jpg)
 ---
 ### Gallup
 - ["Worldwide, 13% of Employees Are Engaged at Work"](https://news.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx)
