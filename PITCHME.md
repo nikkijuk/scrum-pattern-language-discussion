@@ -35,6 +35,7 @@
 ---
 ### GOF aka Gamma et al 1995. 
 - [Design Patterns: Elements of Reusable Object-Oriented Software.](https://en.wikipedia.org/wiki/Design_Patterns)  
+- Usage: Object Oriented design (GUI's/C++/OOP)
 - Creational, Behavioral and Structural patterns
 - Iterator, visitor, Bridge, Builder, Decorator, ..
 ---
@@ -42,6 +43,7 @@
 ---
 ### POSA 1 aka Buschmann et al 1996. 
 - [Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
+- Usage: Software Architecture design 
 - Architectural and Design Pattern, Idioms
 - Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
 ---
@@ -49,6 +51,7 @@
 ---
 ### Hohpe & Woolf 2003. 
 - [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions.](https://www.enterpriseintegrationpatterns.com/) 
+- Usage: Design of distributed systems / integration of systems
 - Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
 - Idempotent Receiver, Message Bus, Canonical Data Model, ..
 ---
