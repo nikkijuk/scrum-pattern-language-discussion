@@ -1,6 +1,6 @@
 # scrum-pattern-language-discussion
 
-Slides for a discussion about how scrum patterns could be used as part of company specific pattern language for [jambit](https://www.jambit.com)
+Slides for a discussion about how scrum patterns could be used as part of company or project specific pattern languages 
 
 For rendered version of the slides see [gitpitch](https://gitpitch.com/nikkijuk/scrum-pattern-language-discussion/master?grs=github&t=moon)
 
