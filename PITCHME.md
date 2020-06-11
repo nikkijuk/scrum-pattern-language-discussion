@@ -228,34 +228,7 @@
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
 ---
-## Productivity
----
-### Team Effectiviness @ Google
-- [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety): Can we take risks on this team without feeling insecure or embarrassed?
-- Dependability: Can we count on each other to do high quality work on time?
-- Structure & clarity: Are goals, roles, and execution plans on our team clear?
-- Meaning of work: Are we working on something that is personally important for each of us?
-- Impact of work: Do we fundamentally believe that the work we’re doing matters?
----
-![teams at google](assets/img/teams_google.png)
----
-### not significantly connected with team effectiveness @Google
-- Colocation of teammates (sitting together in the same office)
-- Consensus-driven decision making
-- Extroversion of team members
-- Individual performance of team members
-- Workload size
-- Seniority
-- Team size
-- Tenure
----
-![psychological safety](assets/img/psychological_safety.jpg)
----
-### Gallup
-- ["Worldwide, 13% of Employees Are Engaged at Work"](https://news.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx)
-- See it positively: "Low workplace engagement offers opportunities to improve business outcomes"
----
-## ideas & recommendations
+## Idea: Create "Scrum Pattern Language" for Jambit 
 ---
 ### Teams are units of action
 - each team should be aware of default process which has worked in the past.
@@ -270,8 +243,8 @@
 - team can decide to use provided material as is or adjust it for their use
 ---
 ### Retrospectives used for reflection 
-- make sure patterns and templates are living artifacts and reflect many valid viewpoints
-- maintenance of pattern language could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
+- record lessonss learned, evaluate where we are and see if pattern language needs adjusting
+- steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
 ### Further reading & sources
 - [Scrum patterns website](http://scrumbook.org/)
