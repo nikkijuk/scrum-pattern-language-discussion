@@ -279,6 +279,8 @@
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
 ---
 ### Further reading
+- [Scrum patterns website](http://scrumbook.org/)
+- [Scrum Plop website](http://www.scrumplop.org/)
 - [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
 - [Sutherland: Takeuchi & Nonaka - Roots of Scrum](https://www.scruminc.com/takeuchi-and-nonaka-roots-of-scrum/)
 - [Sutherland: Product Owner and OODA loop](https://www.scruminc.com/on-fighter-pilots-and-product-owners/)
