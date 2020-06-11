@@ -228,7 +228,7 @@
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
 ---
-## Idea: Create "Scrum Pattern Language" for Jambit 
+## Idea: Grow Collaboratory "Agile@Jambit" Pattern Language(s) 
 ---
 ### Teams are units of action
 - each team should be aware of default process which has worked in the past.
