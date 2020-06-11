@@ -233,12 +233,12 @@
 - find point(s) of improvement and envision default process which addresses current needs.
 - make fork of selected industry practices and share them as pattern language.
 ---
-### Desing for defaults
+### Design for defaults
 - each team should be aware of default process which has worked in the past.
 - [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
 ---
 ### Invite to co-develop 
-- record lessonss learned, evaluate where we are and see if pattern language needs adjusting
+- record lessons learned, evaluate where we are and see if pattern language needs adjusting
 - steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
 ## Closing
