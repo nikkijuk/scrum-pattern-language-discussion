@@ -2,7 +2,7 @@
 
 Slides for a discussion about how scrum patterns could be used as part of company or project specific pattern languages 
 
-For rendered version of the slides see [gitpitch](https://gitpitch.com/nikkijuk/scrum-pattern-language-discussion/master?grs=github&t=moon)
+See here [rendered version of the slides](https://gitpitch.com/nikkijuk/scrum-pattern-language-discussion/master?grs=github&t=moon)
 
 # Motivation from "A Scrum Book" website
 
