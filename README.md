@@ -32,7 +32,7 @@ After you have started, you may discover other patterns that you want to try. So
 
 # Or from "A Scrum Book" directly
 
-![pattern language](project_pattern_language.png)
+![pattern language](images/project_pattern_language.png)
 
 ## License
 [![License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
