@@ -4,8 +4,7 @@
 ## agenda
 - principles, definitions and well-known examples
 - agile, scrum & organisational patterns
-- snake oil & productivity 
-- ideas & recommendations
+- development idea: project pattern language
 ---
 ## One principle
 ---
@@ -230,21 +229,21 @@
 ---
 ## Idea: Grow Collaboratory "Agile@Jambit" Pattern Language(s) 
 ---
-### Teams are units of action
+### Provide seed  
+- find point(s) of improvement and envision default process which addresses current needs.
+- make fork of selected industry practices and share them as pattern language.
+---
+### Desing for defaults
 - each team should be aware of default process which has worked in the past.
 - [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
 ---
-### Provide seed process and invite to co-develop
-- find point of improvement and envision default process which addresses current needs.
-- make fork of selected industry practices and share them as pattern language.
----
-### Teams decide their own process 
-- “build the right process and you’ll build the right product”
-- team can decide to use provided material as is or adjust it for their use
----
-### Retrospectives used for reflection 
+### Invite to co-develop 
 - record lessonss learned, evaluate where we are and see if pattern language needs adjusting
 - steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
+---
+## Closing
+---
+“build the right process and you’ll build the right product”
 ---
 ### Further reading & sources
 - [Scrum patterns website](http://scrumbook.org/)
