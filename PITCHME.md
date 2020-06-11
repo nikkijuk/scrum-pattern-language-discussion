@@ -59,15 +59,16 @@
 ---
 ### Evans 2004. 
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
-- "structure of practices and terminology for making design decisions that focus and accelerate software projects dealing with complicated domains."
+- Usage: Software development based on deep domain understanding
+- "structure of practices and terminology for making design decisions that focus and accelerate software projects."
 - [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
 ---
 ![ddd](assets/img/ddd_patterns.png)
 ---
 ### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
-- "organizational patterns aren't created or invented: they are discovered (or "mined") from empirical observation."
-- Organisational Style, People & Code, Piecemeal Growth & Project management pattern languages
+- Usage: Organisation development for Software Companies. 
+- Pattern languages for Organisational Style, People & Code, Piecemeal Growth & Project management.
 - Self selecting team, Unity of Purpose, ..
 ---
 ![Org style](assets/img/coplien_2004_organisational_style.png)
@@ -80,6 +81,8 @@
 ---
 ### Priest et al late 2010's. 
 - [Sociocracy 3.0 patterns](https://patterns.sociocracy30.org/)
+- Usage: Organisation development
+- "social technology for evolving agile and resilient organizations"
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
 - Navigate Via Tension, Consent Decision Making, ..
 ---
