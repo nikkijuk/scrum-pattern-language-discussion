@@ -36,9 +36,11 @@ After you have started, you may discover other patterns that you want to try. So
 
 # Or from youtube?
 
-[Coplien Short motivation using Scrum patterns 2020](https://www.youtube.com/watch?v=IIe9ILhmr8A)
+[Coplien: Why write book about scrum 2020](https://www.youtube.com/watch?v=iB3S5fCScZM)
 
-[Coplien about Scrum patterns 2020](https://www.youtube.com/watch?v=NSMrGZNdfOg)
+[Coplien: Short motivation using Scrum patterns 2020](https://www.youtube.com/watch?v=IIe9ILhmr8A)
+
+[Coplien: About Scrum patterns 2020](https://www.youtube.com/watch?v=NSMrGZNdfOg)
 
 ## License
 [![License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
