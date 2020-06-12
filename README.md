@@ -34,6 +34,10 @@ After you have started, you may discover other patterns that you want to try. So
 
 ![pattern language](assets/img/project_pattern_language.png)
 
+# Or from youtube?
+
+[Coplien about Scrum patterns 2020](https://www.youtube.com/watch?v=NSMrGZNdfOg)
+
 ## License
 [![License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
