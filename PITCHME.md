@@ -87,7 +87,7 @@
 ---
 ### Accept known state
 - Scrum is not a problem: how our industry uses it is.
-- There's no stable body of knowledge, so we can and need to define our own practices.
+- There's no stable body of knowledge, so we can and need to selects and document our own practices.
 ---
 ### Create initial prototype process  
 - envision default process which addresses current needs.
