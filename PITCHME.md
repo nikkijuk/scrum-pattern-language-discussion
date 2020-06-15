@@ -26,6 +26,8 @@
 ![team phases](assets/img/tuckmann.png)
 ---
 ### State of agile 2020
+- challenge: Inconsistent processes & practices
+- 60% of teams make estimates, 54% have product owner present, 51% of teams are cross functional
 ---
 ![agile practices](assets/img/state_of_agile_challanges_2020.png)
 ---
