@@ -25,23 +25,13 @@
 ---
 ![team phases](assets/img/tuckmann.png)
 ---
-### State of agile 2020
-- 3rd biggest challenge: inconsistent processes & practices across teams
-- 60% of teams make estimates, 54% have product owner present, 51% are cross functional
----
-![agile practices](assets/img/state_of_agile_challanges_2020.png)
----
-![agile practices](assets/img/state_of_agile_practices_used_2020.png)
----
 ## What are patterns?
 ---
-[A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
+[A pattern](https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
 ---
 - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) is a general, reusable solution to a commonly occurring problem within a given context in software design.
-- [An architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) is a general, reusable solution to a commonly occurring problem in software architecture within a given context.
 - [Organisational patterns](https://en.wikipedia.org/wiki/Organizational_patterns) are arrangements or systems of internal relationship which give to any culture its coherence.
----
-[A Scrum Pattern](http://scrumbook.org/) is a general reusable solution to a commonly occurring problem within the Scrum framework.
+- [A Scrum Pattern](http://scrumbook.org/) is a general reusable solution to a commonly occurring problem within the Scrum framework.
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
