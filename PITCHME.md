@@ -15,7 +15,7 @@
 ---
 ![team phases](assets/img/tuckmann.png)
 ---
-### Scott Downey
+### [Scott Downey](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/) 2012
 "The Framework of Scrum provides many options for customization and interpretation for each Team. In my experience, most teams just starting out are so overwhelmed with choices and potential that they can't find a constructive way to start."
 ---
 ## Productive teams
