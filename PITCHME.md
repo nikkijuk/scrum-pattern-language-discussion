@@ -60,15 +60,6 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## goal
----
-### organisational improvement 
-- Find the weakest part of your organization
-- Find a pattern that is likely to strengthen it
-- Apply the pattern
-- Measure the improvement or degradation
-- If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
----
 ## Well-Known Examples
 ---
 ### Coplien & Harrison 2004.
@@ -98,6 +89,15 @@
 - [Agile Software architecture practices pattern language](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
 - [Organizational change Patterns](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
 - [Liberating structures engagement pattern language](http://www.liberatingstructures.com/) by Keith McCandless and Henri Lipmanowicz.
+---
+## usage
+---
+### organisational improvement 
+- Find the weakest part of your organization
+- Find a pattern that is likely to strengthen it
+- Apply the pattern
+- Measure the improvement or degradation
+- If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
 ---
 ## Scrum, Organisational Patterns & Agile
 ---
