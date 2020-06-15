@@ -74,9 +74,9 @@
 - [Organizational change Patterns](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
 - [Liberating structures engagement patterns](http://www.liberatingstructures.com/) by Keith McCandless and Henri Lipmanowicz.
 ---
-## usage
+## organisational improvement 
 ---
-### organisational improvement 
+### apply organisational patterns
 - Find the weakest part of your organization
 - Find a pattern that is likely to strengthen it
 - Apply the pattern
