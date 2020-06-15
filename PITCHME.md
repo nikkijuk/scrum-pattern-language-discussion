@@ -35,11 +35,11 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## Examples of pattern language
+## Examples of pattern languages
 ---
 ### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
-- Usage: Organisation development for Software Companies. 
+- "human and organizational dimension of the software improvement process and software project management". 
 - Pattern languages for Organisational Style, People & Code, Piecemeal Growth & Project management.
 - Examples: Self selecting team, Unity of Purpose, ..
 ---
@@ -63,10 +63,9 @@
 ---
 ### Priest et al late 2010's. 
 - [Sociocracy 3.0 patterns](https://patterns.sociocracy30.org/)
-- Usage: Organisation development
 - "social technology for evolving agile and resilient organizations"
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
-- Example: Navigate Via Tension, Consent Decision Making, ..
+- Examples: Navigate Via Tension, Consent Decision Making, ..
 ---
 ![s3](assets/img/s3_pattern_map.png)
 ---
