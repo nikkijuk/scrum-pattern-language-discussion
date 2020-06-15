@@ -20,10 +20,10 @@
 ---
 ## Team phases
 ---
-![team phases](assets/img/tuckmann.png)
----
 ### [Scott Downey](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/) 2012
 "The Framework of Scrum provides many options for customization and interpretation for each Team. In my experience, most teams just starting out are so overwhelmed with choices and potential that they can't find a constructive way to start."
+---
+![team phases](assets/img/tuckmann.png)
 ---
 ### State of agile 2020
 ---
@@ -99,6 +99,25 @@
 - Measure the improvement or degradation
 - If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
 ---
+## Idea: "Agile@Jambit" Pattern Language(s) 
+---
+### Accept known state
+
+---
+### Provide seed  
+- find point(s) of improvement and envision default process which addresses current needs.
+- make fork of selected industry practices and share them as pattern language.
+---
+### Design for defaults
+- each team should be aware of default process which has worked in the past.
+- [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
+---
+### Invite to co-develop 
+- record lessons learned, evaluate where we are and see if pattern language needs adjusting
+- steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
+---
+
+
 ## Scrum, Organisational Patterns & Agile
 ---
 ### Schwaber 1995
@@ -232,20 +251,6 @@
 ---
 ### [Self-Organising Team §17](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/development-team/self-organizing-team)
 - Specialized skills can't accomplish work without coordination. Therefore, the Development Team organizes itself to get its work Done.
----
-## Idea: Grow Collaboratory "Agile@Jambit" Pattern Language(s) 
----
-### Provide seed  
-- find point(s) of improvement and envision default process which addresses current needs.
-- make fork of selected industry practices and share them as pattern language.
----
-### Design for defaults
-- each team should be aware of default process which has worked in the past.
-- [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
----
-### Invite to co-develop 
-- record lessons learned, evaluate where we are and see if pattern language needs adjusting
-- steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
 ## Closing
 “build the right process and you’ll build the right product”
