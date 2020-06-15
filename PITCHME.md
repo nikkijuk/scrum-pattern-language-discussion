@@ -13,14 +13,6 @@
 -	Simple to understand => 17 pages? 3-5-3?
 -	Difficult to master => but simple to get certified 
 ---
----
-### Sutherland et al 2010 - 2017 
-- [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
-- 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
-- Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
----
-![scrum guide 2010 - 2017](assets/img/scrum_guide_revisions.jpg)
----
 ## One principle
 ---
 ### Gojko Adzic 2009
