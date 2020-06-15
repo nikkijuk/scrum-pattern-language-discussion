@@ -20,7 +20,7 @@
 - Meaning of work: Are we working on something that is personally important for each of us?
 - Impact of work: Do we fundamentally believe that the work we’re doing matters?
 ---
-![teams at google](assets/img/teams_google.jpg)
+![teams at google](assets/img/teams_safety_google.jpg)
 ---
 ### not significantly connected with team effectiveness @Google
 - Colocation of teammates (sitting together in the same office)
