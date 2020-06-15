@@ -6,12 +6,12 @@
 - agile, scrum & organisational patterns
 - development idea: project pattern language
 ---
-## Whatever you do, jusr call it Scrum. 
+## Whatever you do, just call it Scrum. 
 
 ### Scrum is: 
--	Lightweight => Vague
--	Simple to understand => 17 pages?
--	Difficult to master => used very inconsistently 
+-	Lightweight => Vague, used inconsistently
+-	Simple to understand => 17 pages? 3-5-3?
+-	Difficult to master => but simple to get certified 
 ---
 ## One principle
 ---
