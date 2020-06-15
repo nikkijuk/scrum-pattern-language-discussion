@@ -41,7 +41,7 @@
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
 - Usage: Organisation development for Software Companies. 
 - Pattern languages for Organisational Style, People & Code, Piecemeal Growth & Project management.
-- Self selecting team, Unity of Purpose, ..
+- Examples: Self selecting team, Unity of Purpose, ..
 ---
 ![Org style](assets/img/coplien_2004_organisational_style.png)
 ---
@@ -66,7 +66,7 @@
 - Usage: Organisation development
 - "social technology for evolving agile and resilient organizations"
 - Pattern groups for Co-Creation And Evolution, Peer Development, Enablers Of Collaboration, Building Organizations, Bringing In S3, Defining Agreements, Focused Interactions, Meeting Practices, Organizing Work, Organizational Structure
-- Navigate Via Tension, Consent Decision Making, ..
+- Example: Navigate Via Tension, Consent Decision Making, ..
 ---
 ![s3](assets/img/s3_pattern_map.png)
 ---
