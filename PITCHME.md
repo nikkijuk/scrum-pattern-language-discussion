@@ -6,6 +6,11 @@
 - agile, scrum & organisational patterns
 - development idea: project pattern language
 ---
+Scrum is: 
+-	Lightweight => Vague
+-	Simple to understand => 17 pages?
+-	Difficult to master => used inconsistently / plainly "wrong"
+---
 ## One principle
 ---
 ### Gojko Adzic 2009
@@ -17,6 +22,12 @@
 ---
 ### [Scott Downey](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/) 2012
 "The Framework of Scrum provides many options for customization and interpretation for each Team. In my experience, most teams just starting out are so overwhelmed with choices and potential that they can't find a constructive way to start."
+---
+### State of agile 2020
+---
+![agile practices](assets/img/state_of_agile_challanges_2020.png)
+---
+![agile practices](assets/img/state_of_agile_practices_used_2020.png)
 ---
 ## Productive teams
 ---
