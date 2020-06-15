@@ -41,7 +41,7 @@
 - [An architectural pattern](https://en.wikipedia.org/wiki/Architectural_pattern) is a general, reusable solution to a commonly occurring problem in software architecture within a given context.
 - [Organisational patterns](https://en.wikipedia.org/wiki/Organizational_patterns) are arrangements or systems of internal relationship which give to any culture its coherence.
 ---
-"A Scrum Pattern is a general reusable solution to a commonly occurring problem within the Scrum framework."
+[A Scrum Pattern](http://scrumbook.org/) is a general reusable solution to a commonly occurring problem within the Scrum framework.
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
@@ -181,6 +181,7 @@
 - [Scrum patterns website](http://scrumbook.org/)
 - [Scrum Plop website](http://www.scrumplop.org/)
 - [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
+- [Scrum "Schock Therapy"](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/)
 ---
 ### Thanks for discussing!
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
