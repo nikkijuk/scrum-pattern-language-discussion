@@ -27,7 +27,7 @@
 ---
 ### State of agile 2020
 - 3rd biggest challenge: inconsistent processes & practices
-- 60% of teams make estimates, 54% have product owner present, 51% of teams are cross functional
+- 60% of teams make estimates, 54% have product owner present, 51% are cross functional
 ---
 ![agile practices](assets/img/state_of_agile_challanges_2020.png)
 ---
@@ -104,7 +104,8 @@
 ## Idea: "Agile@Jambit" Pattern Language(s) 
 ---
 ### Accept known state
-
+- Scrum is not a problem: how our industry uses it is.
+- There's no stable body of knowledge, so we can and need to define our own practices.
 ---
 ### Provide seed  
 - find point(s) of improvement and envision default process which addresses current needs.
