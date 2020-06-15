@@ -70,9 +70,9 @@
 ![s3](assets/img/s3_pattern_map.png)
 ---
 ### Other Organisational pattern languages
-- [Agile Software architecture practices pattern language](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
+- [Agile & Lean Software architecture practice patterns](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
 - [Organizational change Patterns](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
-- [Liberating structures engagement pattern language](http://www.liberatingstructures.com/) by Keith McCandless and Henri Lipmanowicz.
+- [Liberating structures engagement patterns](http://www.liberatingstructures.com/) by Keith McCandless and Henri Lipmanowicz.
 ---
 ## usage
 ---
