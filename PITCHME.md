@@ -26,7 +26,7 @@
 ![team phases](assets/img/tuckmann.png)
 ---
 ### State of agile 2020
-- 3rd biggest challenge: inconsistent processes & practices
+- 3rd biggest challenge: inconsistent processes & practices across teams
 - 60% of teams make estimates, 54% have product owner present, 51% are cross functional
 ---
 ![agile practices](assets/img/state_of_agile_challanges_2020.png)
