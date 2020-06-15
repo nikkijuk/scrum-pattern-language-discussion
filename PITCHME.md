@@ -182,6 +182,8 @@
 - [Scrum Plop website](http://www.scrumplop.org/)
 - [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
 - [Scrum "Schock Therapy"](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/)
+- [How Scrum Patterns help you become a better Scrum Master](https://www.linkedin.com/pulse/how-scrum-patterns-help-you-become-better-master-karel-smutn%C3%BD-1e/)
+- [Scrum patterns training](https://agilix.nl/scrum-patterns-training/?lang=en)
 ---
 ### Thanks for discussing!
 - https://github.com/nikkijuk/scrum-pattern-language-discussion
