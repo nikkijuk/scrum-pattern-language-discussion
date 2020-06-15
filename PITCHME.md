@@ -2,9 +2,9 @@
 ![Logo](assets/img/jambit_logo.png)
 ---
 ## agenda
-- principles, definitions and well-known examples
-- agile, scrum & organisational patterns
+- scrum, patterns & scrum patterns
 - development idea: project pattern language
+- extra slides: how organizational patterns have influenced early scrum  
 ---
 ## Whatever you do, just call it Scrum. 
 
