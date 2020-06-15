@@ -38,6 +38,8 @@ After you have started, you may discover other patterns that you want to try. So
 
 [Coplien: Why write book about scrum 2020](https://www.youtube.com/watch?v=iB3S5fCScZM)
 
+[Coplien: Patterns - The New Defacto Scrum Standard 2013](https://www.youtube.com/watch?v=LYsl19xEvzM)
+
 [Coplien: Short motivation using Scrum patterns 2020](https://www.youtube.com/watch?v=IIe9ILhmr8A)
 
 [Coplien: About Scrum patterns 2020](https://www.youtube.com/watch?v=NSMrGZNdfOg)

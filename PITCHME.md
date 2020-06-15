@@ -11,6 +11,31 @@
 ### Gojko Adzic 2009
 "I am getting more and more convinced every day that communication is, in fact, what makes or breaks software projects. Programming tools, practices and methods are definitely important, but if the communication fails then the rest is just painting the corpse."
 ---
+## Productive teams
+---
+### Team Effectiviness @ Google
+- [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety): Can we take risks on this team without feeling insecure or embarrassed?
+- Dependability: Can we count on each other to do high quality work on time?
+- Structure & clarity: Are goals, roles, and execution plans on our team clear?
+- Meaning of work: Are we working on something that is personally important for each of us?
+- Impact of work: Do we fundamentally believe that the work we’re doing matters?
+---
+![teams at google](assets/img/teams_google.jpg)
+---
+### not significantly connected with team effectiveness @Google
+- Colocation of teammates (sitting together in the same office)
+- Consensus-driven decision making
+- Extroversion of team members
+- Individual performance of team members
+- Workload size
+- Seniority
+- Team size
+- Tenure
+---
+![psychological safety](assets/img/psychological_safety.jpg)
+---
+
+---
 ## Definitions
 ---
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
@@ -31,38 +56,6 @@
 - If the pattern improved things, go to step 1 and find the next improvement; otherwise, undo the pattern and try an alternative.
 ---
 ## Well-Known Examples
----
-### GOF aka Gamma et al 1995. 
-- [Design Patterns: Elements of Reusable Object-Oriented Software.](https://en.wikipedia.org/wiki/Design_Patterns)  
-- Usage: Object Oriented design (GUI's/C++/OOP)
-- Creational, Behavioral and Structural patterns
-- Iterator, visitor, Bridge, Builder, Decorator, ..
----
-![gof](assets/img/gof_patterns.gif)
----
-### POSA 1 aka Buschmann et al 1996. 
-- [Pattern-Oriented Software Architecture, Volume 1: A System of Patterns.](https://en.wikipedia.org/wiki/Pattern-Oriented_Software_Architecture)
-- Usage: Software Architecture design 
-- Architectural and Design Pattern, Idioms
-- Layers, Pipes and Filters, Broker, Model-View-Controller, .. 
----
-![posa-1](assets/img/posa1_patterns.png)
----
-### Hohpe & Woolf 2003. 
-- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions.](https://www.enterpriseintegrationpatterns.com/) 
-- Usage: Integration of systems
-- Channel, Message Construction, Routing, Transformation, Endpoint and System Management Patterns.
-- Idempotent Receiver, Message Bus, Canonical Data Model, ..
----
-![eai](assets/img/eai_patterns.png)
----
-### Evans 2004. 
-- [Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://en.wikipedia.org/wiki/Domain-driven_design)
-- Usage: Software development based on deep domain understanding
-- "structure of practices and terminology for making design decisions that focus and accelerate software projects."
-- [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html), Ubiquitous language, ..
----
-![ddd](assets/img/ddd_patterns.png)
 ---
 ### Coplien & Harrison 2004.
 - [Organizational Patterns of Agile Software Development](https://en.wikipedia.org/wiki/Organizational_patterns)
@@ -87,11 +80,10 @@
 ---
 ![s3](assets/img/s3_pattern_map.png)
 ---
-### Additional pattern languages
-- [Microservices architecture pattern language](https://microservices.io/) by Chris Richardson.
+### Other Organisational pattern languages
 - [Agile Software architecture practices pattern language](https://www.amazon.de/-/en/dp/B07X8289XR/) by Stefan Toth.
 - [Organizational change Patterns](https://fearlesschangepatterns.com/) by Linda Rising & Mary Manns.
-- [Liberationg structures engagement pattern language](https://thesystemsthinker.com/liberating-structures-a-new-pattern-language-for-engagement/).
+- [Liberating structures engagement pattern language](http://www.liberatingstructures.com/) by Keith McCandless and Henri Lipmanowicz.
 ---
 ## Scrum, Organisational Patterns & Agile
 ---
