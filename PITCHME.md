@@ -90,7 +90,7 @@
 - There's no stable body of knowledge, so we can and need to selects and document our own practices.
 ---
 ### Create initial prototype process  
-- envision default process which addresses current needs.
+- envision default process which adresses current needs.
 - make fork of selected industry practices and share them as pattern language.
 ---
 ### Design for defaults
@@ -169,7 +169,7 @@
 ### Further reading & sources
 - [Scrum patterns website](http://scrumbook.org/)
 - [Scrum Plop website](http://www.scrumplop.org/)
-- [Coplien: One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
+- [One piece continous flow vs. swimline scrum vs. kanban](https://www.scruminc.com/alternative-to-kanban-one-piece/)
 - [Scrum "Schock Therapy"](https://www.scruminc.com/scrum-shock-therapy-how-to-change-teams/)
 - [How Scrum Patterns help you become a better Scrum Master](https://www.linkedin.com/pulse/how-scrum-patterns-help-you-become-better-master-karel-smutn%C3%BD-1e/)
 - [Scrum patterns training](https://agilix.nl/scrum-patterns-training/?lang=en)
