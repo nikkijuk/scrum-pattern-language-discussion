@@ -11,30 +11,14 @@
 ### Gojko Adzic 2009
 "I am getting more and more convinced every day that communication is, in fact, what makes or breaks software projects. Programming tools, practices and methods are definitely important, but if the communication fails then the rest is just painting the corpse."
 ---
+## Team phases
+---
+![team phases](assets/img/tuckmann.png)
+---
+### Scott Downey
+"The Framework of Scrum provides many options for customization and interpretation for each Team. In my experience, most teams just starting out are so overwhelmed with choices and potential that they can't find a constructive way to start."
+---
 ## Productive teams
----
-### Team Effectiviness @ Google
-- [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety): Can we take risks on this team without feeling insecure or embarrassed?
-- Dependability: Can we count on each other to do high quality work on time?
-- Structure & clarity: Are goals, roles, and execution plans on our team clear?
-- Meaning of work: Are we working on something that is personally important for each of us?
-- Impact of work: Do we fundamentally believe that the work we’re doing matters?
----
-![teams at google](assets/img/teams_safety_google.jpg)
----
-### not significantly connected with team effectiveness @Google
-- Colocation of teammates (sitting together in the same office)
-- Consensus-driven decision making
-- Extroversion of team members
-- Individual performance of team members
-- Workload size
-- Seniority
-- Team size
-- Tenure
----
-![psychological safety](assets/img/psychological_safety.jpg)
----
-
 ---
 ## Definitions
 ---
