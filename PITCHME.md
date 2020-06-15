@@ -13,6 +13,14 @@
 -	Simple to understand => 17 pages? 3-5-3?
 -	Difficult to master => but simple to get certified 
 ---
+---
+### Sutherland et al 2010 - 2017 
+- [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
+- 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
+- Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
+---
+![scrum guide 2010 - 2017](assets/img/scrum_guide_revisions.jpg)
+---
 ## One principle
 ---
 ### Gojko Adzic 2009
@@ -100,7 +108,7 @@
 - Scrum is not a problem: how our industry uses it is.
 - There's no stable body of knowledge, so we can and need to define our own practices.
 ---
-### Provide seed  
+### Create initial prototype process  
 - envision default process which addresses current needs.
 - make fork of selected industry practices and share them as pattern language.
 ---
@@ -109,7 +117,7 @@
 - make sure it's easy to do right thing: [selecting default](https://jamesclear.com/design-default) should be easy and not selecting default should be possible.
 ---
 ### Invite to co-develop 
-- record lessons learned, evaluate where we are as company and as industy and see if pattern language needs adjusting
+- record lessons learned, evaluate where we are as company and as industry, and see if pattern language needs adjusting
 - steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
 ## Project pattern language
@@ -223,13 +231,6 @@
 - Beedle's work with Sutherland brought the pattern perspective to Scrum.
 ---
 ![beedle '97](assets/img/beedle_scrum_patterns_97.png)
----
-### Sutherland et al 2010 - 2017 
-- [Scrum Guide](https://www.scrumguides.org/), [6 versions until now](https://www.scrumguides.org/revisions.html)
-- 2010 Chickens and Pigs, 2011 Grooming, 2013 Refinement, 2016 Values, 2017 One improvement item to each Sprint, .. 
-- Last release 2017 added team autonomy by softening mandatory process and role of Scrum Master
----
-![scrum guide 2010 - 2017](assets/img/scrum_guide_revisions.jpg)
 ---
 ### Beedle et al 2010 (working paper)
 - ["Essential Scrum Patterns"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAi7CTrfLpAhVnzqYKHXATCmcQFjAAegQIAxAB&url=http%3A%2F%2Fwww.hillside.net%2Fplop%2F2010%2Fpapers%2Fbeedle.pdf&usg=AOvVaw1ykjztZJZ-eRWt7WUQL2ti)
