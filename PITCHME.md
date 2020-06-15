@@ -33,7 +33,24 @@
 ---
 ## Productive teams
 ---
-## Definitions
+### Team Effectiviness @ Google
+- [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety): Can we take risks on this team without feeling insecure or embarrassed?
+- Dependability: Can we count on each other to do high quality work on time?
+- Structure & clarity: Are goals, roles, and execution plans on our team clear?
+- Meaning of work: Are we working on something that is personally important for each of us?
+- Impact of work: Do we fundamentally believe that the work we’re doing matters?
+---
+### not significantly connected with team effectiveness @Google
+- Colocation of teammates (sitting together in the same office)
+- Consensus-driven decision making
+- Extroversion of team members
+- Individual performance of team members
+- Workload size
+- Seniority
+- Team size
+- Tenure
+---
+## patterns
 ---
 [A pattern]( https://en.wikipedia.org/wiki/Pattern) is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable manner.
 ---
@@ -43,7 +60,7 @@
 ---
 [A pattern language](https://en.wikipedia.org/wiki/Pattern_language) is an organized and coherent set of patterns, each of which describes a problem and the core of a solution that can be used in many ways within a specific field of expertise. 
 ---
-## Usage
+## goal
 ---
 ### organisational improvement 
 - Find the weakest part of your organization
