@@ -12,7 +12,7 @@
 -	Simple to understand => 17 pages?
 -	Difficult to master => used inconsistently 
 
-Scrum is said to be widely used. Reason might be: whatever you do, you can call it Scrum. 
+#### Scrum is said to be widely used. Reason might be: whatever you do, you can call it Scrum. 
 ---
 ## One principle
 ---
