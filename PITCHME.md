@@ -101,6 +101,13 @@
 - record lessons learned, evaluate where we are as company and as industry, and see if pattern language needs adjusting
 - steering of pattern language maintenance could be done at existing CoP, see [Bird of Feather §5](https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/birds-of-a-feather)  
 ---
+## How to start? First make plan.. together ..
+---
+### Coplien 14.6.2020
+- "Let me suggest that we run a two-day [Scrum patterns seminar](https://agilix.nl/scrum-patterns/) together."
+- "it is an excellent event, and very suitable both for team building and for creating a concrete improvement plan."
+- "I'd much prefer to do it on-site if your situation and the timing allow." 
+---
 ## Project pattern language
 ---
 ### Sutherland & al 2014
